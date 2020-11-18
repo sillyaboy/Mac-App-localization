@@ -1,0 +1,38 @@
+/* Class = "NSTextFieldCell"; title = "Cycle Count"; ObjectID = "1Wj-jW-ebu"; */
+"1Wj-jW-ebu.title" = "循环次数";
+
+/* Class = "NSTextFieldCell"; title = "Temperature"; ObjectID = "dyO-S2-onZ"; */
+"dyO-S2-onZ.title" = "温度";
+
+/* Class = "NSTextFieldCell"; title = "---"; ObjectID = "el6-8s-jbY"; */
+"el6-8s-jbY.title" = "---";
+
+/* Class = "NSTextFieldCell"; title = "11:41"; ObjectID = "es8-yR-7SZ"; */
+"es8-yR-7SZ.title" = "11:41";
+
+/* Class = "NSTextFieldCell"; title = "Average Time"; ObjectID = "FDe-00-rAg"; */
+"FDe-00-rAg.title" = "平均时间(每次充电)";
+
+/* Class = "NSTextFieldCell"; title = "100%"; ObjectID = "kah-kl-2aa"; */
+"kah-kl-2aa.title" = "100%";
+
+/* Class = "NSTextFieldCell"; title = "75.5℉"; ObjectID = "kPc-ME-iVf"; */
+"kPc-ME-iVf.title" = "75.5℉";
+
+/* Class = "NSTextFieldCell"; title = "State Of Charge"; ObjectID = "kSD-fE-5gK"; */
+"kSD-fE-5gK.title" = "充电状态";
+
+/* Class = "NSTextFieldCell"; title = "Condition"; ObjectID = "Q3v-xS-0H1"; */
+"Q3v-xS-0H1.title" = "条件";
+
+/* Class = "NSTextFieldCell"; title = "Time Until Empty"; ObjectID = "SN9-Z0-RWs"; */
+"SN9-Z0-RWs.title" = "剩余可用时间";
+
+/* Class = "NSTextFieldCell"; title = "State Of Health"; ObjectID = "UKq-XW-DW2"; */
+"UKq-XW-DW2.title" = "健康状况";
+
+/* Class = "NSTextFieldCell"; title = "1000"; ObjectID = "Uxc-tZ-HP2"; */
+"Uxc-tZ-HP2.title" = "1000";
+
+/* Class = "NSTextFieldCell"; title = "100.00%"; ObjectID = "Wz5-KU-a37"; */
+"Wz5-KU-a37.title" = "100.00%";

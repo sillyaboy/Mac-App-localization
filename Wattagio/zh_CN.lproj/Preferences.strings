@@ -1,0 +1,395 @@
+/* Class = "NSButtonCell"; title = "Red color warns of charge below"; ObjectID = "0b3-Xj-oEn"; */
+"0b3-Xj-oEn.title" = "红色警告当充电量低于";
+
+/* Class = "NSButtonCell"; title = "Only the selected applications"; ObjectID = "0KQ-An-laG"; */
+"0KQ-An-laG.title" = "只有选定的应用程序";
+
+/* Class = "NSButtonCell"; title = "℃"; ObjectID = "0kZ-wc-WqC"; */
+"0kZ-wc-WqC.title" = "℃";
+
+/* Class = "NSButtonCell"; title = "Show battery status in menu bar"; ObjectID = "1ni-1S-yJ2"; */
+"1ni-1S-yJ2.title" = "在菜单栏显示电池状态";
+
+/* Class = "NSToolbarItem"; label = "Quit Apps"; ObjectID = "2KI-gc-AEr"; */
+"2KI-gc-AEr.label" = "退出应用程序";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Quit Apps"; ObjectID = "2KI-gc-AEr"; */
+"2KI-gc-AEr.paletteLabel" = "退出应用程序";
+
+/* Class = "NSButtonCell"; title = "Turn bluetooth off"; ObjectID = "4a5-KX-6ki"; */
+"4a5-KX-6ki.title" = "关闭蓝牙";
+
+/* Class = "NSButtonCell"; title = "When percent less than"; ObjectID = "5Ip-cT-ZJM"; */
+"5Ip-cT-ZJM.title" = "当百分比小于";
+
+/* Class = "NSButtonCell"; title = "Remind me for each "; ObjectID = "6lx-Cn-wxk"; */
+"6lx-Cn-wxk.title" = "提醒我每一个 ";
+
+/* Class = "NSButtonCell"; title = "Ask for permission to turn off"; ObjectID = "7gH-yn-kmo"; */
+"7gH-yn-kmo.title" = "请求关闭许可";
+
+/* Class = "NSButtonCell"; title = "When battery temperature less than"; ObjectID = "7Qx-Bo-Gs1"; */
+"7Qx-Bo-Gs1.title" = "当电池温度低于";
+
+/* Class = "NSMenuItem"; title = "Force Quit"; ObjectID = "7sw-db-czZ"; */
+"7sw-db-czZ.title" = "强制退出";
+
+/* Class = "NSTextFieldCell"; title = "after"; ObjectID = "85g-Id-OuQ"; */
+"85g-Id-OuQ.title" = "之后";
+
+/* Class = "NSTextFieldCell"; title = "General:"; ObjectID = "8AW-Kc-mtd"; */
+"8AW-Kc-mtd.title" = "通用:";
+
+/* Class = "NSButtonCell"; title = "Show Percentage"; ObjectID = "8H3-KI-fle"; */
+"8H3-KI-fle.title" = "显示百分比";
+
+/* Class = "NSButtonCell"; title = "Excluded apps..."; ObjectID = "9hC-bf-j6s"; */
+"9hC-bf-j6s.title" = "排除应用程序...";
+
+/* Class = "NSToolbarItem"; label = "Notifications"; ObjectID = "9v9-3j-daT"; */
+"9v9-3j-daT.label" = "通知";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Notifications"; ObjectID = "9v9-3j-daT"; */
+"9v9-3j-daT.paletteLabel" = "通知";
+
+/* Class = "NSToolbarItem"; label = "General"; ObjectID = "A45-Ps-3WP"; */
+"A45-Ps-3WP.label" = "通用";
+
+/* Class = "NSToolbarItem"; paletteLabel = "General"; ObjectID = "A45-Ps-3WP"; */
+"A45-Ps-3WP.paletteLabel" = "通用";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "AE0-NW-pP3"; */
+"AE0-NW-pP3.title" = "文本单元格";
+
+/* Class = "NSWindow"; title = "Preferences"; ObjectID = "aii-NG-7fU"; */
+"aii-NG-7fU.title" = "首选项";
+
+/* Class = "NSTextFieldCell"; title = "℃"; ObjectID = "AKe-kb-Aiv"; */
+"AKe-kb-Aiv.title" = "℃";
+
+/* Class = "NSButtonCell"; title = "Show assistant"; ObjectID = "Akl-zw-eAE"; */
+"Akl-zw-eAE.title" = "显示助手";
+
+/* Class = "NSButtonCell"; title = "Show time remaining"; ObjectID = "AU4-oj-G8R"; */
+"AU4-oj-G8R.title" = "显示剩余时间";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "BDs-Bs-nb1"; */
+"BDs-Bs-nb1.title" = "Item 1";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "Bnp-aa-iq0"; */
+"Bnp-aa-iq0.title" = "好的";
+
+/* Class = "NSButtonCell"; title = "Show Dock Icon while running"; ObjectID = "Bqp-th-txJ"; */
+"Bqp-th-txJ.title" = "运行时显示Dock图标";
+
+/* Class = "NSButtonCell"; title = "Show \"Charged\""; ObjectID = "bsH-YP-8Vs"; */
+"bsH-YP-8Vs.title" = "显示\"充电\"";
+
+/* Class = "NSButtonCell"; title = "Show wattage"; ObjectID = "C2r-qu-RNh"; */
+"C2r-qu-RNh.title" = "显示功率";
+
+/* Class = "NSTextFieldCell"; title = "99"; ObjectID = "CbN-8P-A3s"; */
+"CbN-8P-A3s.title" = "99";
+
+/* Class = "NSButtonCell"; title = "When the battery is fully charged"; ObjectID = "cFX-ux-i9U"; */
+"cFX-ux-i9U.title" = "当电池充满电的时候";
+
+/* Class = "NSButtonCell"; title = "Disable animations"; ObjectID = "cKf-9s-blo"; */
+"cKf-9s-blo.title" = "禁用动画";
+
+/* Class = "NSButtonCell"; title = "Enable battery usage logging"; ObjectID = "CNn-Bm-LLN"; */
+"CNn-Bm-LLN.title" = "启用电池使用记录";
+
+/* Class = "NSTextFieldCell"; title = "123"; ObjectID = "DC8-se-lzg"; */
+"DC8-se-lzg.title" = "123";
+
+/* Class = "NSTabViewItem"; label = "Fully Charged"; ObjectID = "dCv-Rf-Rwx"; */
+"dCv-Rf-Rwx.label" = "完全充满";
+
+/* Class = "NSButtonCell"; title = "Show amperage"; ObjectID = "dNo-Nu-aFx"; */
+"dNo-Nu-aFx.title" = "显示安培数";
+
+/* Class = "NSButtonCell"; title = "Don't quit application with last window"; ObjectID = "E0g-1a-ciS"; */
+"E0g-1a-ciS.title" = "不要在最后一个窗口退出应用程序";
+
+/* Class = "NSButtonCell"; title = "Show widget"; ObjectID = "E57-F3-C1z"; */
+"E57-F3-C1z.title" = "显示小部件";
+
+/* Class = "NSButtonCell"; title = "Show Percentage"; ObjectID = "EA1-ql-Njc"; */
+"EA1-ql-Njc.title" = "显示百分比";
+
+/* Class = "NSButtonCell"; title = "Clear"; ObjectID = "eIq-W9-BZ8"; */
+"eIq-W9-BZ8.title" = "清除";
+
+/* Class = "NSTextFieldCell"; title = "First day of week"; ObjectID = "eRp-AV-oWS"; */
+"eRp-AV-oWS.title" = "一周的第一天";
+
+/* Class = "NSButtonCell"; title = "Enable history logging"; ObjectID = "eu7-cC-CEs"; */
+"eu7-cC-CEs.title" = "启用历史记录";
+
+/* Class = "NSButtonCell"; title = "Ask for permission to turn off"; ObjectID = "eUV-w4-IhA"; */
+"eUV-w4-IhA.title" = "请求关闭许可";
+
+/* Class = "NSButtonCell"; title = "Show battery status in menu bar"; ObjectID = "F5l-wb-Ltm"; */
+"F5l-wb-Ltm.title" = "在菜单栏中显示电池状态";
+
+/* Class = "NSTextFieldCell"; title = "Font:"; ObjectID = "fkF-6H-m9s"; */
+"fkF-6H-m9s.title" = "字体:";
+
+/* Class = "NSButtonCell"; title = "When battery temperature more than"; ObjectID = "g7m-ze-Wyq"; */
+"g7m-ze-Wyq.title" = "当电池温度超过";
+
+/* Class = "NSButtonCell"; title = "Show icon"; ObjectID = "gAb-do-hKi"; */
+"gAb-do-hKi.title" = "显示图标";
+
+/* Class = "NSTextFieldCell"; title = "On Battery:"; ObjectID = "gg5-GJ-wXX"; */
+"gg5-GJ-wXX.title" = "使用电池:";
+
+/* Class = "NSTextFieldCell"; title = "minutes of inactivity"; ObjectID = "GkX-WH-Mw9"; */
+"GkX-WH-Mw9.title" = "分钟后";
+
+/* Class = "NSTextFieldCell"; title = "minutes of inactivity"; ObjectID = "GwX-h0-Hlv"; */
+"GwX-h0-Hlv.title" = "分钟后";
+
+/* Class = "NSButtonCell"; title = "Vertically"; ObjectID = "I0Y-29-Pvf"; */
+"I0Y-29-Pvf.title" = "垂直";
+
+/* Class = "NSTextFieldCell"; title = "99"; ObjectID = "if6-bd-m15"; */
+"if6-bd-m15.title" = "99";
+
+/* Class = "NSButtonCell"; title = "Vertically"; ObjectID = "iHc-mm-6pT"; */
+"iHc-mm-6pT.title" = "垂直";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "IuT-wu-KWq"; */
+"IuT-wu-KWq.title" = "Item 2";
+
+/* Class = "NSButtonCell"; title = "Show icon"; ObjectID = "Iw2-Sa-7he"; */
+"Iw2-Sa-7he.title" = "显示图标";
+
+/* Class = "NSMenuItem"; title = "Hide"; ObjectID = "Iw4-H2-Wqk"; */
+"Iw4-H2-Wqk.title" = "隐藏";
+
+/* Class = "NSButtonCell"; title = "℃"; ObjectID = "jEy-kb-3TH"; */
+"jEy-kb-3TH.title" = "℃";
+
+/* Class = "NSButtonCell"; title = "Show Percentage"; ObjectID = "JLs-UV-wEq"; */
+"JLs-UV-wEq.title" = "显示百分比";
+
+/* Class = "NSTextFieldCell"; title = "Fully Charged:"; ObjectID = "JS1-fv-P30"; */
+"JS1-fv-P30.title" = "完全充满:";
+
+/* Class = "NSTextFieldCell"; title = "℃"; ObjectID = "jtm-OG-anK"; */
+"jtm-OG-anK.title" = "℃";
+
+/* Class = "NSToolbarItem"; label = "Updates"; ObjectID = "k1b-Tk-4tr"; */
+"k1b-Tk-4tr.label" = "更新";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Updates"; ObjectID = "k1b-Tk-4tr"; */
+"k1b-Tk-4tr.paletteLabel" = "更新";
+
+/* Class = "NSButtonCell"; title = "More accurately"; ObjectID = "kcH-hR-X77"; */
+"kcH-hR-X77.title" = "更精确地";
+
+/* Class = "NSTextFieldCell"; title = "Updates:"; ObjectID = "kGT-rS-rSC"; */
+"kGT-rS-rSC.title" = "更新:";
+
+/* Class = "NSButtonCell"; title = "Turn Wi-Fi off"; ObjectID = "kIK-Fn-DQ7"; */
+"kIK-Fn-DQ7.title" = "关闭 Wi-Fi";
+
+/* Class = "NSButtonCell"; title = "Always"; ObjectID = "KQe-O1-u2E"; */
+"KQe-O1-u2E.title" = "总是";
+
+/* Class = "NSButtonCell"; title = "More accurately"; ObjectID = "KRn-JT-nRi"; */
+"KRn-JT-nRi.title" = "更精确地";
+
+/* Class = "NSButtonCell"; title = "When on battery power"; ObjectID = "kSE-Bc-XET"; */
+"kSE-Bc-XET.title" = "电池供电时";
+
+/* Class = "NSTextFieldCell"; title = "Get notified about the time remaining till the fully charged battery"; ObjectID = "LBS-3o-dAD"; */
+"LBS-3o-dAD.title" = "获取有关电池充满电之前的剩余时间的通知";
+
+/* Class = "NSButtonCell"; title = "℃"; ObjectID = "lGk-uM-ijm"; */
+"lGk-uM-ijm.title" = "℃";
+
+/* Class = "NSTabViewItem"; label = "Charging"; ObjectID = "lLX-OT-ovl"; */
+"lLX-OT-ovl.label" = "充电中";
+
+/* Class = "NSButtonCell"; title = "Show discharge rate"; ObjectID = "Lmw-Qj-QEE"; */
+"Lmw-Qj-QEE.title" = "显示放电率";
+
+/* Class = "NSToolbarItem"; label = "Menu Bar"; ObjectID = "Lvs-hz-3jK"; */
+"Lvs-hz-3jK.label" = "菜单栏";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Menu Bar"; ObjectID = "Lvs-hz-3jK"; */
+"Lvs-hz-3jK.paletteLabel" = "菜单栏";
+
+/* Class = "NSButtonCell"; title = "When percent less than "; ObjectID = "M1n-wi-zAB"; */
+"M1n-wi-zAB.title" = "当百分比小于 ";
+
+/* Class = "NSMenuItem"; title = "Quit"; ObjectID = "M6L-de-Xu1"; */
+"M6L-de-Xu1.title" = "退出";
+
+/* Class = "NSButtonCell"; title = "Always"; ObjectID = "MSu-qx-09w"; */
+"MSu-qx-09w.title" = "总是";
+
+/* Class = "NSTextFieldCell"; title = "History:"; ObjectID = "n4G-FX-T3k"; */
+"n4G-FX-T3k.title" = "历史记录:";
+
+/* Class = "NSButtonCell"; title = "Colored"; ObjectID = "NCF-ST-XFy"; */
+"NCF-ST-XFy.title" = "彩色";
+
+/* Class = "NSButtonCell"; title = "Show voltage"; ObjectID = "NGf-YH-58B"; */
+"NGf-YH-58B.title" = "显示电压";
+
+/* Class = "NSButtonCell"; title = "Colored"; ObjectID = "Nj6-Vv-Gcl"; */
+"Nj6-Vv-Gcl.title" = "彩色";
+
+/* Class = "NSToolbarItem"; label = "Save Power"; ObjectID = "NJx-dR-gIz"; */
+"NJx-dR-gIz.label" = "省电";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Save Power"; ObjectID = "NJx-dR-gIz"; */
+"NJx-dR-gIz.paletteLabel" = "省电";
+
+/* Class = "NSButtonCell"; title = "Reduce transparency"; ObjectID = "NW4-d1-hup"; */
+"NW4-d1-hup.title" = "降低透明度";
+
+/* Class = "NSTextFieldCell"; title = "Get notified about the time remaining till the fully discharged battery"; ObjectID = "ooK-vn-RZM"; */
+"ooK-vn-RZM.title" = "获取有关直到电池完全放电的剩余时间的通知";
+
+/* Class = "NSButtonCell"; title = "Share anonymous usage data"; ObjectID = "p91-ln-0eg"; */
+"p91-ln-0eg.title" = "共享匿名使用数据";
+
+/* Class = "NSButtonCell"; title = "Generate a battery report"; ObjectID = "qcB-xT-5uI"; */
+"qcB-xT-5uI.title" = "生成电池报告";
+
+/* Class = "NSButtonCell"; title = "Show time remaining"; ObjectID = "QIs-pU-aCp"; */
+"QIs-pU-aCp.title" = "显示剩余时间";
+
+/* Class = "NSButtonCell"; title = "Show charge rate"; ObjectID = "QM7-CC-dO0"; */
+"QM7-CC-dO0.title" = "显示充电率";
+
+/* Class = "NSButtonCell"; title = "Read out the raw battery data (more precise information)"; ObjectID = "qnX-Yh-3pR"; */
+"qnX-Yh-3pR.title" = "读取电池原始数据（更精确的信息）";
+
+/* Class = "NSTextFieldCell"; title = "We kindly ask you keep this checkbox selected to help us make Wattagio better. None of your personal information is shared."; ObjectID = "qQs-ff-NPq"; */
+"qQs-ff-NPq.title" = "我们恳请您保持选中这个复选框，以帮助我们使Wattagio更好。你的个人信息不会被分享。";
+
+/* Class = "NSButtonCell"; title = "Show temperature"; ObjectID = "QWF-Fv-Wqg"; */
+"QWF-Fv-Wqg.title" = "显示温度";
+
+/* Class = "NSTextFieldCell"; title = "123"; ObjectID = "QXg-RQ-lXk"; */
+"QXg-RQ-lXk.title" = "123";
+
+/* Class = "NSButtonCell"; title = "Show voltage"; ObjectID = "raY-3F-BTY"; */
+"raY-3F-BTY.title" = "显示电压";
+
+/* Class = "NSTextFieldCell"; title = "General:"; ObjectID = "Rbd-my-HB9"; */
+"Rbd-my-HB9.title" = "通用:";
+
+/* Class = "NSButtonCell"; title = "Show temperature"; ObjectID = "rCa-8B-reO"; */
+"rCa-8B-reO.title" = "显示温度";
+
+/* Class = "NSButtonCell"; title = "24-Hour time"; ObjectID = "Rdo-hV-LBR"; */
+"Rdo-hV-LBR.title" = "24小时制";
+
+/* Class = "NSButtonCell"; title = "Show battery status in menu bar"; ObjectID = "RFe-u7-FpB"; */
+"RFe-u7-FpB.title" = "在菜单栏中显示电池状态";
+
+/* Class = "NSTextFieldCell"; title = "Charging:"; ObjectID = "rK6-cC-uLp"; */
+"rK6-cC-uLp.title" = "充电中:";
+
+/* Class = "NSButtonCell"; title = "Show amperage"; ObjectID = "rkO-bM-bYv"; */
+"rkO-bM-bYv.title" = "显示安培数";
+
+/* Class = "NSTextFieldCell"; title = "Click \"+\" to add action for application."; ObjectID = "roj-5f-Dby"; */
+"roj-5f-Dby.title" = "单击 \"+\"为应用程序添加操作。";
+
+/* Class = "NSButtonCell"; title = "System Preferences"; ObjectID = "RVs-kg-X1z"; */
+"RVs-kg-X1z.title" = "系统偏好设置";
+
+/* Class = "NSButtonCell"; title = "More accurately"; ObjectID = "sau-lo-grb"; */
+"sau-lo-grb.title" = "更精确地";
+
+/* Class = "NSButtonCell"; title = "A"; ObjectID = "Skg-1b-BPk"; */
+"Skg-1b-BPk.title" = "A";
+
+/* Class = "NSButtonCell"; title = "Download updates in background"; ObjectID = "SlU-am-ZWG"; */
+"SlU-am-ZWG.title" = "在后台下载更新";
+
+/* Class = "NSTextFieldCell"; title = "Energy:"; ObjectID = "smL-EI-FeE"; */
+"smL-EI-FeE.title" = "电源:";
+
+/* Class = "NSButtonCell"; title = "Show icon"; ObjectID = "stb-gN-YC0"; */
+"stb-gN-YC0.title" = "显示图标";
+
+/* Class = "NSButtonCell"; title = "Clear"; ObjectID = "svv-0x-L0E"; */
+"svv-0x-L0E.title" = "清除";
+
+/* Class = "NSButtonCell"; title = "Show voltage"; ObjectID = "t4X-rA-tBC"; */
+"t4X-rA-tBC.title" = "显示电压";
+
+/* Class = "NSButtonCell"; title = "When charge level reach "; ObjectID = "T8p-Wa-3rd"; */
+"T8p-Wa-3rd.title" = "达到充电水平时 ";
+
+/* Class = "NSTextFieldCell"; title = "Charging:"; ObjectID = "TBm-Vd-bpp"; */
+"TBm-Vd-bpp.title" = "充电中:";
+
+/* Class = "NSButtonCell"; title = "When battery capacity less than "; ObjectID = "TSI-qn-S2T"; */
+"TSI-qn-S2T.title" = "当电池容量小于 ";
+
+/* Class = "NSButtonCell"; title = "When airplane mode is turned on"; ObjectID = "uCk-98-D1d"; */
+"uCk-98-D1d.title" = "当飞行模式开启时";
+
+/* Class = "NSButtonCell"; title = "Default"; ObjectID = "upb-pd-Oee"; */
+"upb-pd-Oee.title" = "默认";
+
+/* Class = "NSButtonCell"; title = "Check For Updates"; ObjectID = "Uqe-gb-Y3t"; */
+"Uqe-gb-Y3t.title" = "检查更新";
+
+/* Class = "NSTextFieldCell"; title = "For example you will see that the battery actually is still charging when OS tells you that it is fully charged."; ObjectID = "uqw-ac-QNp"; */
+"uqw-ac-QNp.title" = "例如，当操作系统告诉你电池已充满时，你会看到电池实际上仍在充电。";
+
+/* Class = "NSButtonCell"; title = "Show wattage"; ObjectID = "utb-xz-YbR"; */
+"utb-xz-YbR.title" = "显示功率";
+
+/* Class = "NSTextFieldCell"; title = "On Battery:"; ObjectID = "UxF-mE-M85"; */
+"UxF-mE-M85.title" = "使用电池:";
+
+/* Class = "NSButtonCell"; title = "Show time remaining"; ObjectID = "VFe-hB-scp"; */
+"VFe-hB-scp.title" = "显示剩余时间";
+
+/* Class = "NSTextFieldCell"; title = "On Battery:"; ObjectID = "VIP-GG-ZF0"; */
+"VIP-GG-ZF0.title" = "使用电池:";
+
+/* Class = "NSButtonCell"; title = "Check for updates automatically"; ObjectID = "vLD-2c-gYd"; */
+"vLD-2c-gYd.title" = "自动检查更新";
+
+/* Class = "NSButtonCell"; title = "Show temperature"; ObjectID = "VPe-5j-V4K"; */
+"VPe-5j-V4K.title" = "显示温度";
+
+/* Class = "NSButtonCell"; title = "Show wattage"; ObjectID = "W3y-vZ-Okr"; */
+"W3y-vZ-Okr.title" = "显示功率";
+
+/* Class = "NSTabViewItem"; label = "On Battery"; ObjectID = "WFU-A6-zyV"; */
+"WFU-A6-zyV.label" = "使用电池";
+
+/* Class = "NSButtonCell"; title = "Quit all open applications after"; ObjectID = "WRF-vM-wCn"; */
+"WRF-vM-wCn.title" = "退出所有打开的应用程序在闲置";
+
+/* Class = "NSButtonCell"; title = "Always"; ObjectID = "Ygm-9Q-pl7"; */
+"Ygm-9Q-pl7.title" = "总是";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "yjx-54-yvz"; */
+"yjx-54-yvz.title" = "Item 3";
+
+/* Class = "NSButtonCell"; title = "Show amperage"; ObjectID = "ZcG-E8-b34"; */
+"ZcG-E8-b34.title" = "显示安培数";
+
+/* Class = "NSButtonCell"; title = "Launch Wattagio on startup"; ObjectID = "ZVi-mq-zxX"; */
+"ZVi-mq-zxX.title" = "开机启动Wattagio";
+
+/* Class = "NSTextFieldCell"; title = "Privacy:"; ObjectID = "zVO-ik-GCY"; */
+"zVO-ik-GCY.title" = "隐私:";
+
+/* Class = "NSButtonCell"; title = "Vertically"; ObjectID = "Zw9-br-ma4"; */
+"Zw9-br-ma4.title" = "垂直";

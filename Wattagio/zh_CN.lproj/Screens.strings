@@ -1,0 +1,101 @@
+/* Class = "NSButtonCell"; title = "Battery Usage"; ObjectID = "0pt-fv-Zmk"; */
+"0pt-fv-Zmk.title" = "电池用量";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "0Rc-pF-KRr"; */
+"0Rc-pF-KRr.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "1Sh-YT-xWM"; */
+"1Sh-YT-xWM.title" = "Table View Cell";
+
+/* Class = "NSButtonCell"; title = "Activate"; ObjectID = "36Q-k4-5ff"; */
+"36Q-k4-5ff.title" = "激活";
+
+/* Class = "NSButtonCell"; title = "Month"; ObjectID = "9jd-ok-6DC"; */
+"9jd-ok-6DC.title" = "月";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "AOc-XQ-NGC"; */
+"AOc-XQ-NGC.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Process name"; ObjectID = "B1k-o8-3PY"; */
+"B1k-o8-3PY.headerCell.title" = "进程名称";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "bFP-aN-lIe"; */
+"bFP-aN-lIe.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "--- Watts"; ObjectID = "Bgi-uC-3ca"; */
+"Bgi-uC-3ca.title" = "--- Watts";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "BS8-um-aPc"; */
+"BS8-um-aPc.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "DKe-2E-Xn0"; */
+"DKe-2E-Xn0.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "EpO-i3-j4K"; */
+"EpO-i3-j4K.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Day"; ObjectID = "Fhc-pN-xI7"; */
+"Fhc-pN-xI7.title" = "天";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "htB-MI-09w"; */
+"htB-MI-09w.title" = "Box";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "I5e-O9-Hip"; */
+"I5e-O9-Hip.title" = "Box";
+
+/* Class = "NSButtonCell"; title = "Energy"; ObjectID = "Kn4-aZ-Iqr"; */
+"Kn4-aZ-Iqr.title" = "电量";
+
+/* Class = "NSTextFieldCell"; title = "06.07.16 - 14.08.16"; ObjectID = "ksm-ZD-rTc"; */
+"ksm-ZD-rTc.title" = "06.07.16 - 14.08.16";
+
+/* Class = "NSTextFieldCell"; title = "Test"; ObjectID = "M9w-fV-2OR"; */
+"M9w-fV-2OR.title" = "测试";
+
+/* Class = "NSButtonCell"; title = "Week"; ObjectID = "O5V-NC-f0D"; */
+"O5V-NC-f0D.title" = "周";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "PcR-Q7-USa"; */
+"PcR-Q7-USa.title" = "Box";
+
+/* Class = "NSButtonCell"; title = "Capacity History"; ObjectID = "pNT-qH-fmm"; */
+"pNT-qH-fmm.title" = "容量历史";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "Rg5-yq-wjO"; */
+"Rg5-yq-wjO.title" = "Box";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "slo-js-Aah"; */
+"slo-js-Aah.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Your copy of Wattagio  is not activated yet. Please buy a license to remove limitation."; ObjectID = "SU1-Hs-KWg"; */
+"SU1-Hs-KWg.title" = "您的 Wattagio 副本尚未激活。请购买许可证以取消限制。";
+
+/* Class = "NSButtonCell"; title = "Preferences"; ObjectID = "TeI-kV-5Up"; */
+"TeI-kV-5Up.title" = "首选项";
+
+/* Class = "NSButtonCell"; title = "Year"; ObjectID = "u0q-ba-m1F"; */
+"u0q-ba-m1F.title" = "年";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "V8V-K9-aGp"; */
+"V8V-K9-aGp.title" = "Table View Cell";
+
+/* Class = "NSButtonCell"; title = "Health History"; ObjectID = "Vjj-t2-80o"; */
+"Vjj-t2-80o.title" = "健康历史";
+
+/* Class = "NSButtonCell"; title = "Power History"; ObjectID = "VkJ-AE-Qul"; */
+"VkJ-AE-Qul.title" = "电量历史记录";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Vlv-7P-5N6"; */
+"Vlv-7P-5N6.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "--- V"; ObjectID = "w5n-Sq-gW4"; */
+"w5n-Sq-gW4.title" = "--- V";
+
+/* Class = "NSTextFieldCell"; title = "Test"; ObjectID = "wHd-Ce-IzD"; */
+"wHd-Ce-IzD.title" = "测试";
+
+/* Class = "NSTextFieldCell"; title = "--- mA"; ObjectID = "ZRW-sF-INn"; */
+"ZRW-sF-INn.title" = "--- mA";
+
+/* Class = "NSButtonCell"; title = "Usage History"; ObjectID = "ZWm-3j-EsF"; */
+"ZWm-3j-EsF.title" = "用量历史记录";

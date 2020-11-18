@@ -1,0 +1,23 @@
+/* Class = "NSBox"; title = "Box"; ObjectID = "cfT-yA-MhS"; */
+"cfT-yA-MhS.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Using Significant  Energy"; ObjectID = "csG-gv-fkT"; */
+"csG-gv-fkT.title" = "消耗大量电量";
+
+/* Class = "NSTextFieldCell"; title = "No Apps Using Significant Energy"; ObjectID = "dbS-Tp-XYb"; */
+"dbS-Tp-XYb.title" = "没有应用消耗大量电量";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "g3r-Tk-j2p"; */
+"g3r-Tk-j2p.title" = "Box";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "g5A-rR-Hwc"; */
+"g5A-rR-Hwc.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "nRf-Ac-6c3"; */
+"nRf-Ac-6c3.title" = "Text Cell";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "RQQ-Ps-5mq"; */
+"RQQ-Ps-5mq.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "YVD-4n-mpm"; */
+"YVD-4n-mpm.title" = "Table View Cell";

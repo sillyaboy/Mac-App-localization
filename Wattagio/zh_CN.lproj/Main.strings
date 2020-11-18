@@ -1,0 +1,155 @@
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "0Ci-tL-4g0"; */
+"0Ci-tL-4g0.title" = "剪切";
+
+/* Class = "NSTextFieldCell"; title = "Save Battery Power"; ObjectID = "0Fi-hK-PmW"; */
+"0Fi-hK-PmW.title" = "省电";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "1Xb-lb-1gc"; */
+"1Xb-lb-1gc.title" = "Box";
+
+/* Class = "NSMenuItem"; title = "Wattagio"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "Wattagio";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "2qj-R3-50y"; */
+"2qj-R3-50y.title" = "Box";
+
+/* Class = "NSMenuItem"; title = "Quit Wattagio"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "退出 Wattagio";
+
+/* Class = "NSMenuItem"; title = "Details"; ObjectID = "4yB-y5-upT"; */
+"4yB-y5-upT.title" = "细节";
+
+/* Class = "NSMenuItem"; title = "About Wattagio"; ObjectID = "5kV-Vb-QxS"; */
+"5kV-Vb-QxS.title" = "关于 Wattagio";
+
+/* Class = "NSMenuItem"; title = "Battery Health"; ObjectID = "85P-1B-QMu"; */
+"85P-1B-QMu.title" = "电池健康";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "aUF-d1-5bR"; */
+"aUF-d1-5bR.title" = "窗口";
+
+/* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
+"AYu-sK-qS6.title" = "主菜单";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "AzW-lc-FKf"; */
+"AzW-lc-FKf.title" = "Box";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "BOF-NM-1cW"; */
+"BOF-NM-1cW.title" = "偏好设置…";
+
+/* Class = "NSTextFieldCell"; title = "14 days left"; ObjectID = "C0K-bb-3fZ"; */
+"C0K-bb-3fZ.title" = "14 days left";
+
+/* Class = "NSMenuItem"; title = "Support Center..."; ObjectID = "cgA-CQ-HvS"; */
+"cgA-CQ-HvS.title" = "支持中心...";
+
+/* Class = "NSMenuItem"; title = "Tell a Friend..."; ObjectID = "egk-K7-yXc"; */
+"egk-K7-yXc.title" = "告诉一个朋友...";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ"; */
+"F2S-fz-NVQ.title" = "帮助";
+
+/* Class = "NSMenuItem"; title = "Wattagio Help"; ObjectID = "FKE-Sm-Kum"; */
+"FKE-Sm-Kum.title" = "Wattagio 帮助";
+
+/* Class = "NSMenuItem"; title = "Activate..."; ObjectID = "ggO-Ao-su9"; */
+"ggO-Ao-su9.title" = "激活...";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "gK2-C9-O8w"; */
+"gK2-C9-O8w.title" = "删除";
+
+/* Class = "NSMenuItem"; title = "History"; ObjectID = "HOF-q5-jut"; */
+"HOF-q5-jut.title" = "历史记录";
+
+/* Class = "NSMenuItem"; title = "Redo"; ObjectID = "hSP-gT-iaL"; */
+"hSP-gT-iaL.title" = "重做";
+
+/* Class = "NSMenuItem"; title = "Go"; ObjectID = "Hxd-rF-S2G"; */
+"Hxd-rF-S2G.title" = "Go";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "hz9-B4-Xy5"; */
+"hz9-B4-Xy5.title" = "服务";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "IQv-IB-iLA"; */
+"IQv-IB-iLA.title" = "窗口";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "jPD-Q6-7EE"; */
+"jPD-Q6-7EE.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Battery Usage"; ObjectID = "jS2-ai-MZV"; */
+"jS2-ai-MZV.title" = "电池使用量";
+
+/* Class = "NSMenu"; title = "Go"; ObjectID = "K4f-og-Smf"; */
+"K4f-og-Smf.title" = "Go";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS"; */
+"Kd2-mp-pUS.title" = "显示所有";
+
+/* Class = "NSMenu"; title = "Edit"; ObjectID = "L4z-I5-WGU"; */
+"L4z-I5-WGU.title" = "编辑";
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "LE2-aR-0XJ"; */
+"LE2-aR-0XJ.title" = "前置全部窗口";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "NB9-B2-JJ0"; */
+"NB9-B2-JJ0.title" = "编辑";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "NMo-om-nkz"; */
+"NMo-om-nkz.title" = "服务";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "NzL-dh-Ny7"; */
+"NzL-dh-Ny7.title" = "粘贴";
+
+/* Class = "NSMenuItem"; title = "Hide Wattagio"; ObjectID = "Olw-nP-bQN"; */
+"Olw-nP-bQN.title" = "隐藏 Wattagio";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "OY7-WF-poV"; */
+"OY7-WF-poV.title" = "最小化";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "R4o-n2-Eq4"; */
+"R4o-n2-Eq4.title" = "缩放";
+
+/* Class = "NSTextFieldCell"; title = "Wattagio"; ObjectID = "rMh-am-mxh"; */
+"rMh-am-mxh.title" = "Wattagio";
+
+/* Class = "NSMenuItem"; title = "License Agreement..."; ObjectID = "STU-MJ-0HY"; */
+"STU-MJ-0HY.title" = "许可协议...";
+
+/* Class = "NSMenuItem"; title = "Energy"; ObjectID = "t3B-k3-uze"; */
+"t3B-k3-uze.title" = "电量";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "Td7-aD-5lo"; */
+"Td7-aD-5lo.title" = "窗口";
+
+/* Class = "NSMenuItem"; title = "What's New"; ObjectID = "U6j-w1-pNm"; */
+"U6j-w1-pNm.title" = "什么是新的";
+
+/* Class = "NSMenu"; title = "Wattagio"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "Wattagio";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO"; */
+"Vdr-fp-XzO.title" = "隐藏其他";
+
+/* Class = "NSMenuItem"; title = "Check for Updates"; ObjectID = "VDY-IW-QQT"; */
+"VDY-IW-QQT.title" = "检查更新";
+
+/* Class = "NSMenuItem"; title = "Save Battery Power"; ObjectID = "Vhh-Du-gtN"; */
+"Vhh-Du-gtN.title" = "省电";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "Vji-xt-SU7"; */
+"Vji-xt-SU7.title" = "复制";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "wC3-ZN-HsM"; */
+"wC3-ZN-HsM.title" = "Box";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
+"wpr-3q-Mcd.title" = "帮助";
+
+/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "xee-ex-qPF"; */
+"xee-ex-qPF.title" = "撤销";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "Xhx-ar-dYd"; */
+"Xhx-ar-dYd.title" = "选择全部";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "zQ6-kS-Ehg"; */
+"zQ6-kS-Ehg.title" = "Box";

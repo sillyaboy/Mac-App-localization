@@ -1,0 +1,20 @@
+/* Class = "NSTextFieldCell"; title = "Idle:"; ObjectID = "0uX-ft-Zmj"; */
+"0uX-ft-Zmj.title" = "空闲:";
+
+/* Class = "NSTextFieldCell"; title = "00.0%"; ObjectID = "2VU-uE-EgG"; */
+"2VU-uE-EgG.title" = "00.0%";
+
+/* Class = "NSTextFieldCell"; title = "00.0%"; ObjectID = "bkR-OV-6b2"; */
+"bkR-OV-6b2.title" = "00.0%";
+
+/* Class = "NSTextFieldCell"; title = "System:"; ObjectID = "cSX-fm-EPo"; */
+"cSX-fm-EPo.title" = "系统:";
+
+/* Class = "NSTextFieldCell"; title = "CPU Load"; ObjectID = "pYm-pp-Kwu"; */
+"pYm-pp-Kwu.title" = "CPU负载";
+
+/* Class = "NSTextFieldCell"; title = "User:"; ObjectID = "UeQ-Qn-eVN"; */
+"UeQ-Qn-eVN.title" = "使用:";
+
+/* Class = "NSTextFieldCell"; title = "00.0%"; ObjectID = "xTx-bD-R0P"; */
+"xTx-bD-R0P.title" = "00.0%";

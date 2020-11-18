@@ -1,0 +1,14 @@
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "FAV-yh-wdB"; */
+"FAV-yh-wdB.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "100% (Charged)"; ObjectID = "Mj3-Uu-S3r"; */
+"Mj3-Uu-S3r.title" = "100% (已充电)";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "t7p-eX-Rrb"; */
+"t7p-eX-Rrb.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Using Significant  Energy"; ObjectID = "V55-8G-W2o"; */
+"V55-8G-W2o.title" = "消耗大量电量";
+
+/* Class = "NSTextFieldCell"; title = "State Of Charge:"; ObjectID = "W79-v9-fjk"; */
+"W79-v9-fjk.title" = "充电状态:";

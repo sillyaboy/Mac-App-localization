@@ -1,0 +1,98 @@
+/* Class = "NSTextFieldCell"; title = "%CPU"; ObjectID = "2U2-NH-Tkc"; */
+"2U2-NH-Tkc.title" = "%CPU";
+
+/* Class = "NSTextFieldCell"; title = "Process name"; ObjectID = "3MI-in-5bY"; */
+"3MI-in-5bY.title" = "进程名称";
+
+/* Class = "NSTableColumn"; headerCell.title = "Process name"; ObjectID = "77B-pn-X5N"; */
+"77B-pn-X5N.headerCell.title" = "进程名称";
+
+/* Class = "NSTableColumn"; headerCell.title = "Power"; ObjectID = "7ke-cM-bze"; */
+"7ke-cM-bze.headerCell.title" = "耗电量";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "83C-Ap-E6y"; */
+"83C-Ap-E6y.title" = "表格视图单元格";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "8A3-YL-OH7"; */
+"8A3-YL-OH7.title" = "文本单元格";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "9y9-cC-hqt"; */
+"9y9-cC-hqt.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "No data"; ObjectID = "aBv-ic-x5H"; */
+"aBv-ic-x5H.title" = "没有数据";
+
+/* Class = "NSTableColumn"; headerCell.title = "Process name"; ObjectID = "Cc4-kr-zBd"; */
+"Cc4-kr-zBd.headerCell.title" = "进程名称";
+
+/* Class = "NSTextFieldCell"; title = "Power"; ObjectID = "ckq-xD-JXy"; */
+"ckq-xD-JXy.title" = "耗电量";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "cZM-Ia-zzc"; */
+"cZM-Ia-zzc.title" = "表格视图单元格";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "dIv-Wf-9X6"; */
+"dIv-Wf-9X6.title" = "Box";
+
+/* Class = "NSTableColumn"; headerCell.title = "Close"; ObjectID = "dMF-lG-4Ok"; */
+"dMF-lG-4Ok.headerCell.title" = "关闭";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "dU1-xO-E1X"; */
+"dU1-xO-E1X.title" = "表格视图单元格";
+
+/* Class = "NSButtonCell"; title = "All Processes"; ObjectID = "ehr-nm-HPw"; */
+"ehr-nm-HPw.title" = "所有进程";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "FWT-rp-1eX"; */
+"FWT-rp-1eX.title" = "文本单元格";
+
+/* Class = "NSTextFieldCell"; title = "Battery usage logging is disabled"; ObjectID = "jpq-2B-oCI"; */
+"jpq-2B-oCI.title" = "电池使用记录被禁用";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "kfi-iq-fV1"; */
+"kfi-iq-fV1.title" = "文本单元格";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "L7X-Or-2Re"; */
+"L7X-Or-2Re.title" = "文本单元格";
+
+/* Class = "NSTableColumn"; headerCell.title = "%CPU"; ObjectID = "lpt-72-bIQ"; */
+"lpt-72-bIQ.headerCell.title" = "%CPU";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Max-4p-BxL"; */
+"Max-4p-BxL.title" = "文本单元格";
+
+/* Class = "NSButtonCell"; title = "Last 2 hours"; ObjectID = "NCC-UP-2vW"; */
+"NCC-UP-2vW.title" = "最近 2 小时";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "NYG-zf-Q4D"; */
+"NYG-zf-Q4D.title" = "Box";
+
+/* Class = "NSTableColumn"; headerCell.title = "Power percent"; ObjectID = "o0j-0g-JgK"; */
+"o0j-0g-JgK.headerCell.title" = "耗电百分比";
+
+/* Class = "NSButtonCell"; title = "Last 24 hours"; ObjectID = "o64-lf-HZM"; */
+"o64-lf-HZM.title" = "过去 24 小时";
+
+/* Class = "NSButtonCell"; title = "Force Quit"; ObjectID = "om7-wZ-Y7c"; */
+"om7-wZ-Y7c.title" = "强制退出";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "OmU-nU-fAi"; */
+"OmU-nU-fAi.title" = "表格视图单元格";
+
+/* Class = "NSButtonCell"; title = "Since last charge"; ObjectID = "qfP-jf-17J"; */
+"qfP-jf-17J.title" = "上次充电";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "Tqh-rN-197"; */
+"Tqh-rN-197.title" = "Box";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "vpy-8C-V2B"; */
+"vpy-8C-V2B.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "X4d-14-RpK"; */
+"X4d-14-RpK.title" = "Text Cell";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "x5V-D5-pnU"; */
+"x5V-D5-pnU.title" = "Box";
+
+/* Class = "NSButtonCell"; title = "Preferences"; ObjectID = "ZMm-MG-bch"; */
+"ZMm-MG-bch.title" = "Preferences";
