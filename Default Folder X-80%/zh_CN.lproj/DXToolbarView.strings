@@ -1,0 +1,132 @@
+/* Class = "NSMenuItem"; title = "Move to Trash"; ObjectID = "1st-6E-T3O"; */
+"1st-6E-T3O.title" = "移到废纸篓";
+
+/* Class = "NSButtonCell"; title = "Utility"; ObjectID = "2ON-A3-ar5"; */
+"2ON-A3-ar5.title" = "Utility";
+
+/* Class = "NSMenuItem"; title = "Compress"; ObjectID = "3gO-xM-z2v"; */
+"3gO-xM-z2v.title" = "压缩";
+
+/* Class = "NSMenuItem"; title = "Desktop"; ObjectID = "4qj-5a-FaU"; */
+"4qj-5a-FaU.title" = "桌面";
+
+/* Class = "NSMenuItem"; title = "Remove from Favorites…"; ObjectID = "5PS-Wd-6Cb"; */
+"5PS-Wd-6Cb.title" = "从收藏夹中删除…";
+
+/* Class = "NSButtonCell"; title = "Recent\nFolders"; ObjectID = "05U-K2-FgH"; */
+"05U-K2-FgH.title" = "Recent
+Folders";
+
+/* Class = "NSButtonCell"; title = "Computer"; ObjectID = "amf-qD-qtc"; */
+"amf-qD-qtc.title" = "电脑";
+
+/* Class = "NSMenuItem"; title = "Copy Name to Clipboard"; ObjectID = "BhK-LU-mmP"; */
+"BhK-LU-mmP.title" = "将名称复制到剪贴板";
+
+/* Class = "NSMenuItem"; title = "Rename…"; ObjectID = "Bic-f1-Szh"; */
+"Bic-f1-Szh.title" = "重命名…";
+
+/* Class = "NSMenuItem"; title = "Make Alias…"; ObjectID = "BpD-QK-Yjk"; */
+"BpD-QK-Yjk.title" = "制作别名…";
+
+/* Class = "NSMenuItem"; title = "Home"; ObjectID = "BqD-I0-MIh"; */
+"BqD-I0-MIh.title" = "首页";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Recent Folder"; ObjectID = "cGy-9f-xHy"; */
+"cGy-9f-xHy.ibExternalAccessibilityDescription" = "最近的文件夹";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Recent Folders"; ObjectID = "cGy-9f-xHy"; */
+"cGy-9f-xHy.ibShadowedToolTip" = "最近的文件夹";
+
+/* Class = "NSMenuItem"; title = "Get Info…"; ObjectID = "CUw-tu-arm"; */
+"CUw-tu-arm.title" = "获取信息…";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Finder Window"; ObjectID = "e30-hQ-CI1"; */
+"e30-hQ-CI1.ibExternalAccessibilityDescription" = "Finder 窗口";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Finder Windows"; ObjectID = "e30-hQ-CI1"; */
+"e30-hQ-CI1.ibShadowedToolTip" = "Finder 窗口";
+
+/* Class = "NSMenuItem"; title = "Folder Set"; ObjectID = "g7p-Aa-st9"; */
+"g7p-Aa-st9.title" = "文件夹集;
+
+/* Class = "NSMenuItem"; title = "Copy…"; ObjectID = "Ghd-Qf-r7N"; */
+"Ghd-Qf-r7N.title" = "拷贝…";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Recent File"; ObjectID = "Htl-1Y-aZ9"; */
+"Htl-1Y-aZ9.ibExternalAccessibilityDescription" = "最近的文件";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Recent Files"; ObjectID = "Htl-1Y-aZ9"; */
+"Htl-1Y-aZ9.ibShadowedToolTip" = "最近的文件";
+
+/* Class = "NSMenuItem"; title = "Default Folder X Preferences…"; ObjectID = "k13-xP-rK8"; */
+"k13-xP-rK8.title" = "Default Folder X 偏好设置…";
+
+/* Class = "NSMenuItem"; title = "Quicklook"; ObjectID = "l3z-uk-diV"; */
+"l3z-uk-diV.title" = "快速查看";
+
+/* Class = "NSMenuItem"; title = "Copy Name to Clipboard"; ObjectID = "LNL-pQ-nW1"; */
+"LNL-pQ-nW1.title" = "将名称复制到剪贴板";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Computer"; ObjectID = "O5s-ie-P3S"; */
+"O5s-ie-P3S.ibExternalAccessibilityDescription" = "电脑";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Computer"; ObjectID = "O5s-ie-P3S"; */
+"O5s-ie-P3S.ibShadowedToolTip" = "电脑";
+
+/* Class = "NSMenuItem"; title = "Default Folder X Help…"; ObjectID = "oC6-bG-k5w"; */
+"oC6-bG-k5w.title" = "Default Folder X 帮助…";
+
+/* Class = "NSMenu"; title = "Folder Set"; ObjectID = "oHT-IP-RoC"; */
+"oHT-IP-RoC.title" = "文件夹集";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Favorite Folder"; ObjectID = "qZg-Gj-Wy0"; */
+"qZg-Gj-Wy0.ibExternalAccessibilityDescription" = "收藏夹";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Favorites"; ObjectID = "qZg-Gj-Wy0"; */
+"qZg-Gj-Wy0.ibShadowedToolTip" = "收藏夹";
+
+/* Class = "NSButtonCell"; title = "Favorites"; ObjectID = "sfx-0h-dlx"; */
+"sfx-0h-dlx.title" = "收藏夹";
+
+/* Class = "NSMenuItem"; title = "Move…"; ObjectID = "tKK-KV-xu6"; */
+"tKK-KV-xu6.title" = "移动…";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Utility"; ObjectID = "uQv-GM-lmq"; */
+"uQv-GM-lmq.ibExternalAccessibilityDescription" = "Utility";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Utilities"; ObjectID = "uQv-GM-lmq"; */
+"uQv-GM-lmq.ibShadowedToolTip" = "Utilities";
+
+/* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "vJs-CK-up8"; */
+"vJs-CK-up8.title" = "Duplicate";
+
+/* Class = "NSMenuItem"; title = "Open in Finder"; ObjectID = "vu4-xc-6Sj"; */
+"vu4-xc-6Sj.title" = "在Finder中打开";
+
+/* Class = "NSButtonCell"; title = "Recent\nFiles"; ObjectID = "X0d-h0-caR"; */
+"X0d-h0-caR.title" = "Recent
+Files";
+
+/* Class = "NSMenuItem"; title = "Show in Finder"; ObjectID = "x0R-WZ-hLp"; */
+"x0R-WZ-hLp.title" = "Show in Finder";
+
+/* Class = "NSMenuItem"; title = "iCloud"; ObjectID = "Xso-1h-yHt"; */
+"Xso-1h-yHt.title" = "iCloud";
+
+/* Class = "NSMenuItem"; title = "Copy Path to Clipboard"; ObjectID = "xVU-Bb-L3S"; */
+"xVU-Bb-L3S.title" = "复制路径到剪贴板";
+
+/* Class = "NSButtonCell"; title = "Finder\nWindows"; ObjectID = "xyA-8Z-AVd"; */
+"xyA-8Z-AVd.title" = "Finder
+Windows";
+
+/* Class = "NSMenuItem"; title = "Decompress"; ObjectID = "ZoI-Ac-r6S"; */
+"ZoI-Ac-r6S.title" = "Decompress";
+
+/* Class = "NSMenuItem"; title = "Copy Path to Clipboard"; ObjectID = "ZsW-wy-Oei"; */
+"ZsW-wy-Oei.title" = "复制路径到剪贴板";
+
+/* Class = "NSMenuItem"; title = "New Folder…"; ObjectID = "ZXG-aR-UJu"; */
+"ZXG-aR-UJu.title" = "新建文件夹…";
+

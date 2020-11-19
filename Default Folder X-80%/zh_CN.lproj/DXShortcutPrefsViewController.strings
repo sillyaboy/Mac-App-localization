@@ -1,0 +1,9 @@
+/* Class = "NSButtonCell"; title = "Reset to Defaults"; ObjectID = "d7F-1x-iTx"; */
+"d7F-1x-iTx.title" = "重置为默认值";
+
+/* Class = "NSTableColumn"; headerCell.title = "Shortcut"; ObjectID = "JOp-gU-XlN"; */
+"JOp-gU-XlN.headerCell.title" = "Shortcut";
+
+/* Class = "NSTableColumn"; headerCell.title = "Command"; ObjectID = "wGP-VE-MOa"; */
+"wGP-VE-MOa.headerCell.title" = "Command";
+

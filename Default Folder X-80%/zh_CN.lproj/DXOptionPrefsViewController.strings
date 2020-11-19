@@ -1,0 +1,69 @@
+/* Class = "NSMenuItem"; title = "Daily"; ObjectID = "A8u-nk-AVf"; */
+"A8u-nk-AVf.title" = "每天";
+
+/* Class = "NSButtonCell"; title = "Check Now"; ObjectID = "BJG-j4-Uuf"; */
+"BJG-j4-Uuf.title" = "现在检查";
+
+/* Class = "NSMenuItem"; title = "⌥ Option"; ObjectID = "BM8-AW-U1E"; */
+"BM8-AW-U1E.title" = "⌥ Option";
+
+/* Class = "NSMenuItem"; title = "in a new Finder window"; ObjectID = "CcN-sF-LdB"; */
+"CcN-sF-LdB.title" = "在新的Finder窗口中";
+
+/* Class = "NSTextFieldCell"; title = "by"; ObjectID = "Dik-o3-aSn"; */
+"Dik-o3-aSn.title" = "通过";
+
+/* Class = "NSMenuItem"; title = "⌘ Command"; ObjectID = "eLe-LO-vHg"; */
+"eLe-LO-vHg.title" = "⌘ Command";
+
+/* Class = "NSBox"; title = "Exclude Default Folder X from the following applications:"; ObjectID = "gux-Hn-PsW"; */
+"gux-Hn-PsW.title" = "从以下应用程序中排除 Default Folder X :";
+
+/* Class = "NSMenuItem"; title = "Monthly"; ObjectID = "J0A-5f-Kif"; */
+"J0A-5f-Kif.title" = "每月";
+
+/* Class = "NSTextFieldCell"; title = "Open folders in the Finder"; ObjectID = "jQJ-5F-Gzp"; */
+"jQJ-5F-Gzp.title" = "在 Finder 中打开文件夹";
+
+/* Class = "NSButtonCell"; title = "Create aliases of Recent and Favorite items in your Library folder"; ObjectID = "L3o-kl-Xls"; */
+"L3o-kl-Xls.title" = "在 Library 文件夹中创建“最近”和“收藏夹”项的别名";
+
+/* Class = "NSMenuItem"; title = "any application"; ObjectID = "lLW-Hc-kUF"; */
+"lLW-Hc-kUF.title" = "任何应用";
+
+/* Class = "NSMenuItem"; title = "iTerm2"; ObjectID = "oba-3e-4SE"; */
+"oba-3e-4SE.title" = "iTerm2";
+
+/* Class = "NSTextFieldCell"; title = "clicking"; ObjectID = "pdV-2E-5Tm"; */
+"pdV-2E-5Tm.title" = "点击";
+
+/* Class = "NSMenuItem"; title = "the Finder"; ObjectID = "pFW-lM-klV"; */
+"pFW-lM-klV.title" = "Finder";
+
+/* Class = "NSButtonCell"; title = "Automatically download and install updates"; ObjectID = "pie-q3-Gwc"; */
+"pie-q3-Gwc.title" = "自动下载并安装更新";
+
+/* Class = "NSMenuItem"; title = "in the frontmost Finder window"; ObjectID = "Q3q-xY-plN"; */
+"Q3q-xY-plN.title" = "在最前面的 Finder 窗口中";
+
+/* Class = "NSMenuItem"; title = "Weekly"; ObjectID = "Qrz-N8-6dL"; */
+"Qrz-N8-6dL.title" = "每周";
+
+/* Class = "NSButtonCell"; title = "Enable Favorites shortcuts in"; ObjectID = "UV7-8R-7bq"; */
+"UV7-8R-7bq.title" = "启用收藏夹快捷方式在";
+
+/* Class = "NSButtonCell"; title = "Open a menu item in"; ObjectID = "Vy4-gx-dWN"; */
+"Vy4-gx-dWN.title" = "打开菜单项通过";
+
+/* Class = "NSButtonCell"; title = "Check for updates"; ObjectID = "xvb-Hc-bYV"; */
+"xvb-Hc-bYV.title" = "检查更新";
+
+/* Class = "NSMenuItem"; title = "Hourly"; ObjectID = "Ye3-qT-WQR"; */
+"Ye3-qT-WQR.title" = "每小时";
+
+/* Class = "NSMenuItem"; title = "⌃ Control"; ObjectID = "Yly-sb-4ow"; */
+"Yly-sb-4ow.title" = "⌃ Control";
+
+/* Class = "NSMenuItem"; title = "Terminal"; ObjectID = "ZV0-PB-Vo1"; */
+"ZV0-PB-Vo1.title" = "Terminal";
+

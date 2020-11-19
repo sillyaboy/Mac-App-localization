@@ -1,0 +1,15 @@
+/* Class = "NSTabViewItem"; label = "Information"; ObjectID = "7nb-vZ-gKU"; */
+"7nb-vZ-gKU.label" = "信息";
+
+/* Class = "NSTabViewItem"; label = "Comments"; ObjectID = "APz-g9-4dg"; */
+"APz-g9-4dg.label" = "评论";
+
+/* Class = "NSTabViewItem"; label = "Permissions"; ObjectID = "MlX-z5-DZ9"; */
+"MlX-z5-DZ9.label" = "许可";
+
+/* Class = "NSTabViewItem"; label = "Tags"; ObjectID = "uLZ-Ri-XBf"; */
+"uLZ-Ri-XBf.label" = "标签";
+
+/* Class = "NSTabViewItem"; label = "Preview"; ObjectID = "W5t-Di-tR8"; */
+"W5t-Di-tR8.label" = "预览";
+

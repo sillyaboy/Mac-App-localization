@@ -1,0 +1,12 @@
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Type or drag tags here"; ObjectID = "7fn-5D-oTV"; */
+"7fn-5D-oTV.ibShadowedIsNilPlaceholder" = "在此处输入或拖动标签";
+
+/* Class = "NSButtonCell"; title = "Remember these tags next time"; ObjectID = "8Ss-Mj-ETb"; */
+"8Ss-Mj-ETb.title" = "下次记住这些标签";
+
+/* Class = "NSTokenField"; ibExternalAccessibilityDescription = "Recent Tags"; ObjectID = "baa-GV-KAL"; */
+"baa-GV-KAL.ibExternalAccessibilityDescription" = "最近标签";
+
+/* Class = "NSTokenField"; ibExternalAccessibilityDescription = "Tag Field"; ObjectID = "ewq-gO-UYz"; */
+"ewq-gO-UYz.ibExternalAccessibilityDescription" = "标签字段";
+

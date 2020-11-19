@@ -1,0 +1,12 @@
+/* Class = "NSButtonCell"; title = "Remember this comment next time"; ObjectID = "eCg-TG-19d"; */
+"eCg-TG-19d.title" = "下次记住此评论";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "Type comments here"; ObjectID = "g3v-qW-c2c"; */
+"g3v-qW-c2c.ibShadowedIsNilPlaceholder" = "在此处输入评论";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "Comment Panel"; ObjectID = "Hz6-mo-xeY"; */
+"Hz6-mo-xeY.ibExternalAccessibilityDescription" = "评论面板";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Comment Field"; ObjectID = "M33-RG-EKb"; */
+"M33-RG-EKb.ibExternalAccessibilityDescription" = "评论栏";
+

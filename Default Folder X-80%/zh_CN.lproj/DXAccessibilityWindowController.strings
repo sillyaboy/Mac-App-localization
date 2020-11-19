@@ -1,0 +1,45 @@
+/* Class = "NSButtonCell"; title = "Quit Without Authorizing"; ObjectID = "4k6-fE-A7i"; */
+"4k6-fE-A7i.title" = "退出不授权";
+
+/* Class = "NSButtonCell"; title = "Quit"; ObjectID = "CCT-Ys-sj8"; */
+"CCT-Ys-sj8.title" = "退出";
+
+/* Class = "NSTextFieldCell"; title = "Default Folder X needs your permission to enhance Open and Save dialogs and to navigate to your folders. Click the \"Open System Preferences\" button to proceed."; ObjectID = "cXL-60-6LI"; */
+"cXL-60-6LI.title" = "Default Folder X 需要您的许可才能增强“打开”和“保存”对话框并导航到您的文件夹。 单击 \"打开系统偏好设置\" 按钮继续";
+
+/* Class = "NSButtonCell"; title = "Quit Without Authorizing"; ObjectID = "dxO-p4-OKg"; */
+"dxO-p4-OKg.title" = "退出不授权";
+
+/* Class = "NSButtonCell"; title = "Go To Full Disk Access"; ObjectID = "EL5-ET-ta3"; */
+"EL5-ET-ta3.title" = "转到完全磁盘访问";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "gXQ-rD-j2Q"; */
+"gXQ-rD-j2Q.title" = "好的";
+
+/* Class = "NSTextFieldCell"; title = "Please follow these steps to allow Accessibility:"; ObjectID = "h2p-lC-HTx"; */
+"h2p-lC-HTx.title" = "请按照以下步骤进行操作:";
+
+/* Class = "NSButtonCell"; title = "Open System Preferences"; ObjectID = "k12-XG-JSX"; */
+"k12-XG-JSX.title" = "打开系统偏好设置";
+
+/* Class = "NSTextFieldCell"; title = "Authorize Default Folder X"; ObjectID = "msX-SN-vVb"; */
+"msX-SN-vVb.title" = "授权 Default Folder X";
+
+/* Class = "NSTextFieldCell"; title = "Default Folder X will add its controls to all of your Open and Save dialogs."; ObjectID = "mvr-PT-FHE"; */
+"mvr-PT-FHE.title" = "Default Folder X will add its controls to all of your Open and Save dialogs.";
+
+/* Class = "NSButtonCell"; title = "Go To Accessibility"; ObjectID = "qXT-uj-eJ9"; */
+"qXT-uj-eJ9.title" = "前往辅助功能";
+
+/* Class = "NSTextFieldCell"; title = "Please follow these steps to allow Full Disk Access:"; ObjectID = "ReT-p2-E97"; */
+"ReT-p2-E97.title" = "请按照以下步骤操作以允许完全磁盘访问:";
+
+/* Class = "NSTextFieldCell"; title = "You can access its preferences and settings by clicking on the Default Folder X icon in your menu bar."; ObjectID = "sO0-Ty-bF8"; */
+"sO0-Ty-bF8.title" = "您可以通过单击菜单栏中的 Default Folder X 图标来访问其首选项和设置。";
+
+/* Class = "NSTextFieldCell"; title = "Drag this icon into the list of applications"; ObjectID = "sPs-qc-H5p"; */
+"sPs-qc-H5p.title" = "将此图标拖到应用程序列表中";
+
+/* Class = "NSTextFieldCell"; title = "Successfully Authorized!"; ObjectID = "z76-S1-Se4"; */
+"z76-S1-Se4.title" = "成功授权！";
+

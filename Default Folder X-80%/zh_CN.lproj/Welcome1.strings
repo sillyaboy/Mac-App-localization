@@ -1,0 +1,9 @@
+
+/* Class = "NSTextFieldCell"; title = "Welcome to Default Folder X!"; ObjectID = "fmL-1m-Ewg"; */
+"fmL-1m-Ewg.title" = "欢迎使用 Default Folder X!";
+
+/* Class = "NSTextFieldCell"; title = "Click on this icon in your menu bar…"; ObjectID = "hLB-dM-miP"; */
+"hLB-dM-miP.title" = "点击菜单栏中的此图标…";
+
+/* Class = "NSTextFieldCell"; title = "Default Folder X helps you quickly access folders and files in all of your apps. You’ll find it in every Open and Save dialog as well as in your menu bar."; ObjectID = "rSU-qG-PjB"; */
+"rSU-qG-PjB.title" = "Default Folder X 可帮助您快速访问所有应用程序中的文件夹和文件。您会在每个“打开和保存”对话框以及菜单栏中找到它。";

@@ -1,0 +1,27 @@
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "AhZ-pw-rpJ"; */
+"AhZ-pw-rpJ.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Folder set name:"; ObjectID = "FUL-DI-AFY"; */
+"FUL-DI-AFY.title" = "文件夹集名称:";
+
+/* Class = "NSButtonCell"; title = "Add…"; ObjectID = "oiJ-BO-rcg"; */
+"oiJ-BO-rcg.title" = "添加…";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "qJt-fY-cHO"; */
+"qJt-fY-cHO.title" = "好的";
+
+/* Class = "NSButtonCell"; title = "Remove"; ObjectID = "QyX-gk-W77"; */
+"QyX-gk-W77.title" = "移除";
+
+/* Class = "NSTextFieldCell"; title = "Folder Sets:"; ObjectID = "stg-Ca-iZg"; */
+"stg-Ca-iZg.title" = "文件夹集:";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "sWR-25-StZ"; */
+"sWR-25-StZ.title" = "好的";
+
+/* Class = "NSButtonCell"; title = "Rename…"; ObjectID = "U2f-R3-v1s"; */
+"U2f-R3-v1s.title" = "重命名…";
+
+/* Class = "NSButtonCell"; title = "Duplicate…"; ObjectID = "YL2-Lw-nkw"; */
+"YL2-Lw-nkw.title" = "复制…";
+

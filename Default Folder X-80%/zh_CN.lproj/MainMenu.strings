@@ -1,0 +1,42 @@
+/* Class = "NSMenuItem"; title = "Default Folder X"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "Default Folder X";
+
+/* Class = "NSMenuItem"; title = "Quit Default Folder X"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "退出 Default Folder X";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "5lb-B6-u5a"; */
+"5lb-B6-u5a.title" = "剪切";
+
+/* Class = "NSMenuItem"; title = "File"; ObjectID = "6X8-q7-VKH"; */
+"6X8-q7-VKH.title" = "文件";
+
+/* Class = "NSMenuItem"; title = "Close"; ObjectID = "BoI-oo-il4"; */
+"BoI-oo-il4.title" = "关闭";
+
+/* Class = "NSMenuItem"; title = "Redo"; ObjectID = "eNz-ke-6fA"; */
+"eNz-ke-6fA.title" = "重做";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "eVI-Ke-DAU"; */
+"eVI-Ke-DAU.title" = "拷贝";
+
+/* Class = "NSMenu"; title = "File"; ObjectID = "fRI-n6-GQ3"; */
+"fRI-n6-GQ3.title" = "文件";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "QJh-gF-Ibo"; */
+"QJh-gF-Ibo.title" = "选择全部";
+
+/* Class = "NSMenu"; title = "Edit"; ObjectID = "qPw-g1-kTA"; */
+"qPw-g1-kTA.title" = "编辑";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "rvA-ZP-VLL"; */
+"rvA-ZP-VLL.title" = "编辑";
+
+/* Class = "NSMenu"; title = "Default Folder X"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "Default Folder X";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "xLf-PF-h8G"; */
+"xLf-PF-h8G.title" = "复制";
+
+/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "ZBm-8R-rOG"; */
+"ZBm-8R-rOG.title" = "撤销";
+

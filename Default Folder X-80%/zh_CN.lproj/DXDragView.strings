@@ -1,0 +1,30 @@
+/* Class = "NSMenuItem"; title = "Remove all items from sidebar"; ObjectID = "1DX-b7-fW3"; */
+"1DX-b7-fW3.title" = "从侧边栏中删除所有项目";
+
+/* Class = "NSMenuItem"; title = "Open"; ObjectID = "6wQ-pc-rzk"; */
+"6wQ-pc-rzk.title" = "打开";
+
+/* Class = "NSMenuItem"; title = "Remove from drawer"; ObjectID = "8cv-co-Zoz"; */
+"8cv-co-Zoz.title" = "从抽屉里删除";
+
+/* Class = "NSMenuItem"; title = "Open"; ObjectID = "awl-U2-R2U"; */
+"awl-U2-R2U.title" = "打开";
+
+/* Class = "NSMenuItem"; title = "Show in file dialog"; ObjectID = "Bf6-8N-WTf"; */
+"Bf6-8N-WTf.title" = "在文件对话框中显示";
+
+/* Class = "NSMenuItem"; title = "Remove from sidebar"; ObjectID = "EpF-JY-oc3"; */
+"EpF-JY-oc3.title" = "从侧边栏删除";
+
+/* Class = "NSMenuItem"; title = "Show in Finder"; ObjectID = "jP8-MW-tXT"; */
+"jP8-MW-tXT.title" = "在 Finder 中显示";
+
+/* Class = "NSMenuItem"; title = "Show in Finder"; ObjectID = "Kic-H5-WJg"; */
+"Kic-H5-WJg.title" = "在 Finder 中显示";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Drag items here to add them"; ObjectID = "tuB-Ot-b3M"; */
+"tuB-Ot-b3M.ibExternalAccessibilityDescription" = "将项目拖到此处以添加它们";
+
+/* Class = "NSMenuItem"; title = "Remove all items from drawer"; ObjectID = "Z4b-7O-dFW"; */
+"Z4b-7O-dFW.title" = "从抽屉里删除所有项目";
+

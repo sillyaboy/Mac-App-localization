@@ -1,0 +1,21 @@
+/* Class = "NSMenuItem"; title = "Recent Folders"; ObjectID = "awQ-tq-uvN"; */
+"awQ-tq-uvN.title" = "最近的文件夹";
+
+/* Class = "NSMenuItem"; title = "Finder Windows"; ObjectID = "bTB-a2-1mg"; */
+"bTB-a2-1mg.title" = "Finder 窗口";
+
+/* Class = "NSWindow"; title = "Default Folder X"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Default Folder X";
+
+/* Class = "NSMenuItem"; title = "Favorites"; ObjectID = "JLG-9h-lh4"; */
+"JLG-9h-lh4.title" = "收藏夹";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "Ks4-v8-t5y"; */
+"Ks4-v8-t5y.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "x5O-kB-osV"; */
+"x5O-kB-osV.title" = "好的";
+
+/* Class = "NSMenuItem"; title = "Computer"; ObjectID = "X6U-FF-SlK"; */
+"X6U-FF-SlK.title" = "电脑";
+

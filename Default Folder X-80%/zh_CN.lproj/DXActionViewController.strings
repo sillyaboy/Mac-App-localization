@@ -1,0 +1,33 @@
+
+/* Class = "NSMenuItem"; title = "No scripts available"; ObjectID = "0Pn-SP-r0J"; */
+"0Pn-SP-r0J.title" = "没有可用的脚本";
+
+/* Class = "NSButtonCell"; title = "Open the saved file"; ObjectID = "0gZ-A8-TxG"; */
+"0gZ-A8-TxG.title" = "打开保存的文件";
+
+/* Class = "NSButtonCell"; title = "Send the saved file to the AppleScript"; ObjectID = "2Ml-ez-bdF"; */
+"2Ml-ez-bdF.title" = "将保存的文件发送到 AppleScript";
+
+/* Class = "NSButtonCell"; title = "Attach the saved file to a new email in"; ObjectID = "4Oj-QL-VLB"; */
+"4Oj-QL-VLB.title" = "将保存的文件附加到新电子邮件中";
+
+/* Class = "NSButtonCell"; title = "Remember these actions next time"; ObjectID = "6IO-b7-JzH"; */
+"6IO-b7-JzH.title" = "下次记得这些动作";
+
+/* Class = "NSButtonCell"; title = "Run the Automator workflow"; ObjectID = "JCh-40-SWn"; */
+"JCh-40-SWn.title" = "运行 Automator 工作流程";
+
+/* Class = "NSMenuItem"; title = "No workflows available"; ObjectID = "Re2-t2-xdl"; */
+"Re2-t2-xdl.title" = "没有可用的工作流程";
+
+/* Class = "NSMenuItem"; title = "Open Workflows folder in Finder"; ObjectID = "c0J-32-iwl"; */
+"c0J-32-iwl.title" = "在 Finder 中打开 Workflows 文件夹";
+
+/* Class = "NSMenuItem"; title = "Open Scripts folder in Finder"; ObjectID = "hAc-q2-FVh"; */
+"hAc-q2-FVh.title" = "在 Finder 中打开脚本文件夹";
+
+/* Class = "NSTextFieldCell"; title = "After saving:"; ObjectID = "p9x-R3-hXo"; */
+"p9x-R3-hXo.title" = "保存后:";
+
+/* Class = "NSMenuItem"; title = "No scripts available"; ObjectID = "xEA-Ec-AJx"; */
+"xEA-Ec-AJx.title" = "没有可用的脚本";

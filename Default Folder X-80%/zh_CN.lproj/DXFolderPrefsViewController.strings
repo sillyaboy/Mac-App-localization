@@ -1,0 +1,192 @@
+/* Class = "NSTableCellView"; ibShadowedToolTip = "This default folder can be used once after an application launches, every time a file dialog appears, or only manually by choosing it from the bottom of the Favorites menu. Click to change this setting."; ObjectID = "3nv-fP-MFE"; */
+"3nv-fP-MFE.ibShadowedToolTip" = "此默认文件夹可以在应用程序启动后使用一次，每次出现文件对话框时都可以使用，或者只能通过从“收藏夹”菜单底部选择它来手动使用。单击以更改此设置。";
+
+/* Class = "NSMenuItem"; title = "once"; ObjectID = "4G1-Qa-Y4Z"; */
+"4G1-Qa-Y4Z.title" = "一次";
+
+/* Class = "NSMenuItem"; title = "Running application"; ObjectID = "4W8-RR-ckL"; */
+"4W8-RR-ckL.title" = "正在运行的应用程序";
+
+/* Class = "NSMenuItem"; title = "always"; ObjectID = "5Fs-Ez-znD"; */
+"5Fs-Ez-znD.title" = "总是";
+
+/* Class = "NSTextFieldCell"; title = "Note: If you select a file type besides \"All File Types,\" Default Folder X will automatically turn off \"Hide Extensions\" in your Save dialogs."; ObjectID = "6LG-BX-4j2"; */
+"6LG-BX-4j2.title" = "注意：如果您选择 \"所有文件类型,\"以外的文件类型， Default Folder X 将在“保存”对话框中自动关闭 \"隐藏扩展名\" ";
+
+/* Class = "NSTextFieldCell"; title = "Please enter a new name for this Favorite:"; ObjectID = "7a8-xV-0hd"; */
+"7a8-xV-0hd.title" = "请为此收藏输入新名称:";
+
+/* Class = "NSMenuItem"; title = "Sort by Name"; ObjectID = "7C6-cf-LNb"; */
+"7C6-cf-LNb.title" = "按名称分类";
+
+/* Class = "NSMenuItem"; title = "Add Path or URL…"; ObjectID = "8Sh-0I-XhP"; */
+"8Sh-0I-XhP.title" = "添加路径或 URL…";
+
+/* Class = "NSTableColumn"; headerCell.title = "Favorite Folder"; ObjectID = "9Ur-pB-oYT"; */
+"9Ur-pB-oYT.headerCell.title" = "收藏夹";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "18J-W6-mCC"; */
+"18J-W6-mCC.title" = "好的";
+
+/* Class = "NSView"; ibShadowedToolTip = "To change, duplicate or remove a folder, control-click on it. To add a folder, click on the '+' button below."; ObjectID = "29W-VO-ZW7"; */
+"29W-VO-ZW7.ibShadowedToolTip" = "要更改，复制或删除文件夹，请按住Control键并单击它。要添加文件夹，请单击下面的'+'按钮。"
+
+/* Class = "NSTableColumn"; headerCell.title = "Extension"; ObjectID = "44r-Tc-bWB"; */
+"44r-Tc-bWB.headerCell.title" = "扩展";
+
+/* Class = "NSTextFieldCell"; title = "Examples:\n1) A relative path, such as ../images/\n2) A full path, such as /Applications/Utilities/\n3) A file URL, such as file:///Applications/Utilities/"; ObjectID = "a9h-h8-ZvC"; */
+"a9h-h8-ZvC.title" = "例子:
+1) A relative path, such as ../images/
+2) A full path, such as /Applications/Utilities/
+3) A file URL, such as file:///Applications/Utilities/";
+
+/* Class = "NSMenuItem"; title = "Drag folders to reorder"; ObjectID = "aaB-Ge-ocU"; */
+"aaB-Ge-ocU.title" = "Drag folders to reorder";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "aMe-nV-geX"; */
+"aMe-nV-geX.title" = "取消";
+
+/* Class = "NSTableColumn"; headerCell.title = "When"; ObjectID = "APP-3X-15Q"; */
+"APP-3X-15Q.headerCell.title" = "当";
+
+/* Class = "NSMenuItem"; title = "Change…"; ObjectID = "cED-3O-G7N"; */
+"cED-3O-G7N.title" = "更改…";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "d0C-fh-q0P"; */
+"d0C-fh-q0P.title" = "取消";
+
+/* Class = "NSMenuItem"; title = "Add Separator Line"; ObjectID = "dAp-px-YvR"; */
+"dAp-px-YvR.title" = "添加分隔线";
+
+/* Class = "NSMenuItem"; title = "Sort by Application"; ObjectID = "DZE-lg-lGx"; */
+"DZE-lg-lGx.title" = "按应用排序";
+
+/* Class = "NSMenuItem"; title = "Show in Finder"; ObjectID = "Efg-Bh-FYh"; */
+"Efg-Bh-FYh.title" = "在 Finder 中显示";
+
+/* Class = "NSMenuItem"; title = "Add Folder…"; ObjectID = "Gvn-Zb-8Th"; */
+"Gvn-Zb-8Th.title" = "添加文件夹…";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "h5c-9l-okt"; */
+"h5c-9l-okt.title" = "Cancel";
+
+/* Class = "NSTableColumn"; headerCell.title = "Application"; ObjectID = "HND-O8-U7Z"; */
+"HND-O8-U7Z.headerCell.title" = "Application";
+
+/* Class = "NSTabViewItem"; label = "Default Folders"; ObjectID = "Hyw-Y7-72k"; */
+"Hyw-Y7-72k.label" = "Default Folders";
+
+/* Class = "NSMenuItem"; title = "Add Folder…"; ObjectID = "Iai-hh-CPk"; */
+"Iai-hh-CPk.title" = "Add Folder…";
+
+/* Class = "NSMenuItem"; title = "Sort by Extension"; ObjectID = "IDx-HL-5UW"; */
+"IDx-HL-5UW.title" = "Sort by Extension";
+
+/* Class = "NSTextFieldCell"; title = "Please enter a path or URL for this Favorite:"; ObjectID = "jjf-dr-hzK"; */
+"jjf-dr-hzK.title" = "Please enter a path or URL for this Favorite:";
+
+/* Class = "NSMenuItem"; title = "Remove"; ObjectID = "jks-6Z-xKd"; */
+"jks-6Z-xKd.title" = "Remove";
+
+/* Class = "NSTableCellView"; ibShadowedToolTip = "To change the order of your favorites, drag them up and down in this list. To change, rename or remove a favorite folder, control-click on it. To add a folder, click on the '+' button below."; ObjectID = "k6g-tE-FPS"; */
+"k6g-tE-FPS.ibShadowedToolTip" = "To change the order of your favorites, drag them up and down in this list. To change, rename or remove a favorite folder, control-click on it. To add a folder, click on the '+' button below.";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "khz-SX-WRn"; */
+"khz-SX-WRn.title" = "Cancel";
+
+/* Class = "NSTabViewItem"; label = "Favorites"; ObjectID = "KT5-Si-C1I"; */
+"KT5-Si-C1I.label" = "Favorites";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "l5h-qM-6go"; */
+"l5h-qM-6go.title" = "OK";
+
+/* Class = "NSMenuItem"; title = "Remove"; ObjectID = "l9M-gN-aAW"; */
+"l9M-gN-aAW.title" = "Remove";
+
+/* Class = "NSMenuItem"; title = "Other…"; ObjectID = "Lvm-dy-3C6"; */
+"Lvm-dy-3C6.title" = "Other…";
+
+/* Class = "NSMenuItem"; title = "Keep Sorted by Name"; ObjectID = "Ly4-Tb-IaN"; */
+"Ly4-Tb-IaN.title" = "Keep Sorted by Name";
+
+/* Class = "NSMenuItem"; title = "Edit Folder Sets…"; ObjectID = "nbm-5o-TSt"; */
+"nbm-5o-TSt.title" = "Edit Folder Sets…";
+
+/* Class = "NSTableColumn"; headerCell.title = "Shortcut"; ObjectID = "nnS-fl-Hd5"; */
+"nnS-fl-Hd5.headerCell.title" = "Shortcut";
+
+/* Class = "NSMenuItem"; title = "Other…"; ObjectID = "O61-8o-9lk"; */
+"O61-8o-9lk.title" = "Other…";
+
+/* Class = "NSMenuItem"; title = "Change…"; ObjectID = "oNj-ID-Nf2"; */
+"oNj-ID-Nf2.title" = "Change…";
+
+/* Class = "NSMenuItem"; title = "manual"; ObjectID = "ozo-fr-5qm"; */
+"ozo-fr-5qm.title" = "manual";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "p2B-n9-2X1"; */
+"p2B-n9-2X1.title" = "OK";
+
+/* Class = "NSMenuItem"; title = "Show in Finder"; ObjectID = "p5b-hS-7I5"; */
+"p5b-hS-7I5.title" = "Show in Finder";
+
+/* Class = "NSMenuItem"; title = "All File Types"; ObjectID = "pkF-TN-tP9"; */
+"pkF-TN-tP9.title" = "All File Types";
+
+/* Class = "NSMenuItem"; title = "All Applications"; ObjectID = "Qax-WE-dJs"; */
+"Qax-WE-dJs.title" = "All Applications";
+
+/* Class = "NSTextFieldCell"; title = "Please enter a filename extension:"; ObjectID = "qJ9-zC-dT9"; */
+"qJ9-zC-dT9.title" = "Please enter a filename extension:";
+
+/* Class = "NSTableCellView"; ibShadowedToolTip = "This default folder will only be used in a Save dialog if you're saving this type of file. Click to change the file type."; ObjectID = "qmv-Be-OWK"; */
+"qmv-Be-OWK.ibShadowedToolTip" = "This default folder will only be used in a Save dialog if you're saving this type of file. Click to change the file type.";
+
+/* Class = "NSTableCellView"; ibShadowedToolTip = "Open and Save dialogs will start automatically in this folder. To change, duplicate or remove a folder, control-click on it. To add a folder, click on the '+' button below."; ObjectID = "QNc-Kr-06h"; */
+"QNc-Kr-06h.ibShadowedToolTip" = "Open and Save dialogs will start automatically in this folder. To change, duplicate or remove a folder, control-click on it. To add a folder, click on the '+' button below.";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "qoI-E6-Xcq"; */
+"qoI-E6-Xcq.title" = "OK";
+
+/* Class = "NSTableCellView"; ibShadowedToolTip = "Click here to set or change the keyboard shortcut for this favorite folder."; ObjectID = "si8-GF-lwY"; */
+"si8-GF-lwY.ibShadowedToolTip" = "Click here to set or change the keyboard shortcut for this favorite folder.";
+
+/* Class = "NSTextFieldCell"; title = "Make %@ the default folder when saving:"; ObjectID = "skw-U3-gQZ"; */
+"skw-U3-gQZ.title" = "Make %@ the default folder when saving:";
+
+/* Class = "NSTextFieldCell"; title = "Folder Set:"; ObjectID = "td5-Vr-zmo"; */
+"td5-Vr-zmo.title" = "Folder Set:";
+
+/* Class = "NSMenuItem"; title = "Application types"; ObjectID = "td5-ZE-7tl"; */
+"td5-ZE-7tl.title" = "Application types";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "Tmk-qD-0Or"; */
+"Tmk-qD-0Or.title" = "OK";
+
+/* Class = "NSTableColumn"; headerCell.title = "Default Folder"; ObjectID = "uZH-t5-rCW"; */
+"uZH-t5-rCW.headerCell.title" = "Default Folder";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "VFo-oG-0jP"; */
+"VFo-oG-0jP.title" = "Cancel";
+
+/* Class = "NSTextFieldCell"; title = "Make %@ the default folder for:"; ObjectID = "X2A-Nm-85W"; */
+"X2A-Nm-85W.title" = "Make %@ the default folder for:";
+
+/* Class = "NSMenuItem"; title = "Rename…"; ObjectID = "X2H-sX-bp4"; */
+"X2H-sX-bp4.title" = "Rename…";
+
+/* Class = "NSMenuItem"; title = "Sort by Shortcut"; ObjectID = "xmO-Yg-X49"; */
+"xmO-Yg-X49.title" = "Sort by Shortcut";
+
+/* Class = "NSTableCellView"; ibShadowedToolTip = "The application in which this default folder should be used. Click to change it."; ObjectID = "XOg-eh-DBh"; */
+"XOg-eh-DBh.ibShadowedToolTip" = "The application in which this default folder should be used. Click to change it.";
+
+/* Class = "NSMenuItem"; title = "Drag folders to reorder"; ObjectID = "YbD-Ix-TAP"; */
+"YbD-Ix-TAP.title" = "Drag folders to reorder";
+
+/* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "ZG4-94-GmA"; */
+"ZG4-94-GmA.title" = "Duplicate";
+
+/* Class = "NSMenuItem"; title = "Sort by Name"; ObjectID = "zZY-uY-OA4"; */
+"zZY-uY-OA4.title" = "Sort by Name";
+
