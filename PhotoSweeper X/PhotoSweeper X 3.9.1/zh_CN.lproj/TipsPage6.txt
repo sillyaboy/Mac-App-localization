@@ -1,0 +1,8 @@
+<body>
+<h1>6. 将标记的照片移到回收站</h1>
+<br/>
+<h2>点击工具栏中的<em>删除已标记</em>按钮，然后确认将其删除。</h2>
+<h2>如果删除的照片是从硬盘驱动器上获取的，则转到<em>Finder垃圾桶</em>；如果是从资源库中获取的，则删除到<em> iPhoto垃圾桶</em>或<em> Aperture垃圾桶 </em>。</h2>
+<h2>Apple Photos 中的照片会转到名为<em>Trash（PhotoSweeper</em>的相册。</h2>
+<h2>来自 Adobe Lightroom 的照片将进入名为<em>Trash (PhotoSweeper)</em>的集合，并标记为<em>Rejected</em>。</h2>
+</body>

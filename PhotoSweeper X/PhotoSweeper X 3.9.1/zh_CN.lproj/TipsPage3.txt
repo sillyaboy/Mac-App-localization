@@ -1,0 +1,6 @@
+<body>
+<h1>3. 从 Apple Photos，iPhoto，Aperture或Adobe Lightroom 添加照片</h1>
+<br/>
+<h2>首次启动时，您需要使用<em><b>+</b></em>按钮将媒体库文件添加到<em>媒体浏览器</em>窗口。</h2>
+<h2>然后将要比较的照片从<em>媒体浏览器</em>拖放到主窗口。</h2>
+</body>

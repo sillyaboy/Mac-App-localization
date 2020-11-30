@@ -1,0 +1,8 @@
+<body>
+<h1>您的照片已移至<em>Trash（PhotoSweeper</em>相册.</h1>
+<h2>为了完成删除，请按照以下步骤操作：</h2>
+<li>1. 在<b>照片</b>应用程序中打开您的照片库。</li>
+<li>2. 导航到<b>Trash (PhotoSweeper)</b>相册。通过按⌘A（Command + A）快捷方式选择所有照片。</li>
+<li>3. <b><em>重要!</em></b> 按 ⌘⌫ (Command+Delete) 快捷键来 <b>删除</b> 照片.</li>
+<li>4. <b><em>(可选的)</em></b> 导航到<b>最近删除</b>相册。通过单击左上角的<b>全部删除</b>按钮永久删除照片。</li>
+</body>
