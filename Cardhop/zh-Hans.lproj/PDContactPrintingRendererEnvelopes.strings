@@ -1,0 +1,57 @@
+
+/* Class = "NSTextFieldCell"; title = "Recipient:"; ObjectID = "5NS-0t-7BS"; */
+"5NS-0t-7BS.title" = "收件人:";
+
+/* Class = "NSButtonCell"; title = "Except if Same Country as Mine"; ObjectID = "5R0-1O-FQK"; */
+"5R0-1O-FQK.title" = "除非与我所在的国家/地区相同";
+
+/* Class = "NSMenuItem"; title = "Company"; ObjectID = "5WM-Pk-dgQ"; */
+"5WM-Pk-dgQ.title" = "公司";
+
+/* Class = "NSTextFieldCell"; title = "Order:"; ObjectID = "7L2-rA-7Vp"; */
+"7L2-rA-7Vp.title" = "顺序:";
+
+/* Class = "NSMenuItem"; title = "By Postal Code"; ObjectID = "8Ih-xL-6Qw"; */
+"8Ih-xL-6Qw.title" = "按邮政编码";
+
+/* Class = "NSMenuItem"; title = "Name"; ObjectID = "9XP-Wm-fIB"; */
+"9XP-Wm-fIB.title" = "名字";
+
+/* Class = "NSMenuItem"; title = "Name & Company"; ObjectID = "Aud-1V-FBj"; */
+"Aud-1V-FBj.title" = "名字 & 公司";
+
+/* Class = "NSTextFieldCell"; title = "Recipient Address:"; ObjectID = "Fs0-s0-EVC"; */
+"Fs0-s0-EVC.title" = "收件人地址:";
+
+/* Class = "NSTextFieldCell"; title = "Image:"; ObjectID = "IrZ-ik-c5I"; */
+"IrZ-ik-c5I.title" = "图片:";
+
+/* Class = "NSButtonCell"; title = "Only One Address per Contact"; ObjectID = "QcL-AM-lZo"; */
+"QcL-AM-lZo.title" = "每个联系人仅一个地址";
+
+/* Class = "NSButtonCell"; title = "Sender"; ObjectID = "RyB-nr-og8"; */
+"RyB-nr-og8.title" = "发件人:";
+
+/* Class = "NSMenuItem"; title = "Alphabetical"; ObjectID = "Wfl-6V-Avd"; */
+"Wfl-6V-Avd.title" = "按字母顺序";
+
+/* Class = "NSMenuItem"; title = "Company"; ObjectID = "bUW-g4-rsY"; */
+"bUW-g4-rsY.title" = "公司";
+
+/* Class = "NSMenuItem"; title = "Name"; ObjectID = "gzS-ya-eB2"; */
+"gzS-ya-eB2.title" = "名字";
+
+/* Class = "NSButtonCell"; title = "Select…"; ObjectID = "h7n-rH-vrE"; */
+"h7n-rH-vrE.title" = "选择…";
+
+/* Class = "NSTextFieldCell"; title = "Envelope Size:"; ObjectID = "ngt-AG-w05"; */
+"ngt-AG-w05.title" = "信封尺寸:";
+
+/* Class = "NSButtonCell"; title = "Show Country"; ObjectID = "rhz-kL-BZk"; */
+"rhz-kL-BZk.title" = "显示国家";
+
+/* Class = "NSTextFieldCell"; title = "Sender Address:"; ObjectID = "vtG-6N-bZj"; */
+"vtG-6N-bZj.title" = "发件人地址:";
+
+/* Class = "NSMenuItem"; title = "Name & Company"; ObjectID = "xdO-CA-Of3"; */
+"xdO-CA-Of3.title" = "名字 & 公司";

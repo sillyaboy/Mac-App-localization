@@ -1,0 +1,62 @@
+/* Class = "NSTextFieldCell"; title = "Cardhop works without limitations for 21 days. After 21 days you will need to purchase a license to continue using Cardhop."; ObjectID = "5ia-Uo-GuP"; */
+"5ia-Uo-GuP.title" = "Cardhop 可以不受限制地工作 21 天。 21 天后，您将需要购买许可证才能继续使用 Cardhop。";
+
+/* Class = "NSButtonCell"; title = "Open Cardhop At Login"; ObjectID = "5ve-3T-Fwd"; */
+"5ve-3T-Fwd.title" = "登录时运行 Cardhop";
+
+/* Class = "NSTextFieldCell"; title = "Contacts Access Denied"; ObjectID = "6Aw-Dk-mbB"; */
+"6Aw-Dk-mbB.title" = "联系人访问被拒绝";
+
+/* Class = "NSButtonCell"; title = "View Privacy Policy"; ObjectID = "CBE-xz-rgB"; */
+"CBE-xz-rgB.title" = "查看隐私政策";
+
+/* Class = "NSTextFieldCell"; title = "Before we go, would you like to sign up for our mailing list? We’ll only send a message when we have something cool to share and we’ll never share your information."; ObjectID = "Cex-EQ-ALh"; */
+"Cex-EQ-ALh.title" = "在我们开始之前，您想订阅我们的动态吗？ 我们只会在有优惠及更新时才会给您发送邮件，并且永远不会公开您的信息。";
+
+/* Class = "NSTextFieldCell"; title = "It only takes a few short steps to set up Cardhop."; ObjectID = "Een-Ay-eMk"; */
+"Een-Ay-eMk.title" = "只需几步即可设置 Cardhop。";
+
+/* Class = "NSWindow"; title = "Cardhop Setup"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Cardhop 设置";
+
+/* Class = "NSButtonCell"; title = "Continue"; ObjectID = "K5x-n6-Abb"; */
+"K5x-n6-Abb.title" = "继续";
+
+/* Class = "NSButtonCell"; title = "Continue"; ObjectID = "O2Q-0s-SzI"; */
+"O2Q-0s-SzI.title" = "继续";
+
+/* Class = "NSTextFieldCell"; title = "Open At Login"; ObjectID = "Otl-sd-msr"; */
+"Otl-sd-msr.title" = "登录时运行";
+
+/* Class = "NSTextFieldCell"; title = "Cardhop is going to ask for permission to access your contacts.\n\nGrant Cardhop access to your contacts in order to manage and edit your contacts. Cardhop can not function without access to your contacts.\n\nYour contacts are not shared with anyone, all data is kept on your computer.\n\nHave questions about how Cardhop uses your data? Please see our privacy policy."; ObjectID = "RB1-IY-f3A"; */
+"RB1-IY-f3A.title" = "Cardhop 将要求获得访问您的联系人的权限。\n\n授予 Cardhop 访问您的联系人的权限，以管理和编辑您的联系人。如果没有访问您的联系人，Cardhop 将无法运行。\n\n您的联系人不会与任何人共享，所有数据都保存在您的计算机上。\n\n对 Cardhop 如何使用您的数据有疑问吗？ 请参阅我们的隐私政策。";
+
+/* Class = "NSTextFieldCell"; title = "Should Cardhop open automatically when you log in to your Mac?"; ObjectID = "XYR-Hf-arO"; */
+"XYR-Hf-arO.title" = "登录 Mac 时 Cardhop 是否应自动运行?";
+
+/* Class = "NSButtonCell"; title = "Open Cardhop"; ObjectID = "Zsb-8I-7vu"; */
+"Zsb-8I-7vu.title" = "运行 Cardhop";
+
+/* Class = "NSTextFieldCell"; title = "That’s All!"; ObjectID = "bf5-cs-vZL"; */
+"bf5-cs-vZL.title" = "就这样!";
+
+/* Class = "NSTextFieldCell"; title = "Access Request"; ObjectID = "d2Z-c6-ZFC"; */
+"d2Z-c6-ZFC.title" = "访问请求";
+
+/* Class = "NSButtonCell"; title = "Continue"; ObjectID = "d5T-7j-d4X"; */
+"d5T-7j-d4X.title" = "继续";
+
+/* Class = "NSTextFieldCell"; title = "You can change this setting later by opening Cardhop’s preferences and selecting the General tab."; ObjectID = "jUh-IT-Dz6"; */
+"jUh-IT-Dz6.title" = "您可以稍后通过打开 Cardhop 的偏好设置并选择“常规”标签来更改此设置。";
+
+/* Class = "NSTextFieldCell"; title = "Cardhop does not have access to your contacts.\n\nEnable Cardhop in the Privacy section of System Preferences and reopen Cardhop. Cardhop can not function without access to your contacts."; ObjectID = "kih-mT-oJw"; */
+"kih-mT-oJw.title" = "Cardhop无权访问您的联系人。\n\n在“系统偏好设置”的“隐私”部分中启用 Cardhop，然后重新打开 Cardhop。如果没有访问您的联系人，Cardhop 将无法运行。";
+
+/* Class = "NSButtonCell"; title = "Join the Flexibits mailing list"; ObjectID = "nsm-7c-jR4"; */
+"nsm-7c-jR4.title" = "加入 Flexibits 邮件订阅";
+
+/* Class = "NSButtonCell"; title = "Don’t Open"; ObjectID = "oFI-oR-QYC"; */
+"oFI-oR-QYC.title" = "不运行";
+
+/* Class = "NSButtonCell"; title = "Open System Preferences"; ObjectID = "ur1-8V-9EZ"; */
+"ur1-8V-9EZ.title" = "打开系统偏好设置";

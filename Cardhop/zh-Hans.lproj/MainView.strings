@@ -1,0 +1,71 @@
+/* Class = "NSMenuItem"; title = "New Card"; ObjectID = "48"; */
+"48.title" = "新卡片";
+
+/* Class = "NSMenuItem"; title = "Quit Cardhop"; ObjectID = "63"; */
+"63.title" = "退出";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "72"; */
+"72.title" = "偏好设置…";
+
+/* Class = "NSTabViewItem"; label = "Edit"; ObjectID = "74"; */
+"74.label" = "编辑";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "flag as incorrect"; ObjectID = "118"; */
+"118.ibExternalAccessibilityDescription" = "标记为不正确";
+
+/* Class = "NSMenuItem"; title = "Import vCard…"; ObjectID = "150"; */
+"150.title" = "导入 vCard…";
+
+/* Class = "NSTextView"; ibExternalAccessibilityDescription = "search, add, edit, or interact with contacts"; ObjectID = "177"; */
+"177.ibExternalAccessibilityDescription" = "搜索，添加，编辑或与联系人互动";
+
+/* Class = "NSMenu"; title = "Export"; ObjectID = "2Ve-8E-eAv"; */
+"2Ve-8E-eAv.title" = "导出";
+
+/* Class = "NSTextFieldCell"; title = "Loading your contacts…"; ObjectID = "4dm-XW-XKa"; */
+"4dm-XW-XKa.title" = "正在加载您的联系人…";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "show or hide groups"; ObjectID = "8v8-ZQ-l2f"; */
+"8v8-ZQ-l2f.ibExternalAccessibilityDescription" = "显示或隐藏分组";
+
+/* Class = "NSMenuItem"; title = "Cardhop Help"; ObjectID = "Bkf-qx-pre"; */
+"Bkf-qx-pre.title" = "Cardhop 帮助";
+
+/* Class = "NSMenu"; title = "Share"; ObjectID = "F1g-Gg-c1q"; */
+"F1g-Gg-c1q.title" = "分享";
+
+/* Class = "NSMenuItem"; title = "About Cardhop"; ObjectID = "NFt-sw-PDe"; */
+"NFt-sw-PDe.title" = "关于 Cardhop";
+
+/* Class = "NSMenuItem"; title = "Export"; ObjectID = "NTa-D0-ObC"; */
+"NTa-D0-ObC.title" = "导出";
+
+/* Class = "NSMenuItem"; title = "Share"; ObjectID = "Pk7-Qx-TrE"; */
+"Pk7-Qx-TrE.title" = "分享";
+
+/* Class = "NSMenuItem"; title = "Detach from Menu Bar"; ObjectID = "Tge-dY-4qr"; */
+"Tge-dY-4qr.title" = "从菜单栏分离";
+
+/* Class = "NSMenuItem"; title = "Export vCard…"; ObjectID = "Yks-2m-zPd"; */
+"Yks-2m-zPd.title" = "导出 vCard…";
+
+/* Class = "NSMenuItem"; title = "New Group"; ObjectID = "ZAk-CB-V1M"; */
+"ZAk-CB-V1M.title" = "新建分组";
+
+/* Class = "NSMenuItem"; title = "New Smart Group…"; ObjectID = "cmf-vX-fOK"; */
+"cmf-vX-fOK.title" = "新建智能分组…";
+
+/* Class = "NSMenuItem"; title = "Export All Contacts…"; ObjectID = "iA4-zE-erp"; */
+"iA4-zE-erp.title" = "导出所有联系人…";
+
+/* Class = "NSMenu"; title = "New Group"; ObjectID = "qbN-Mp-SEc"; */
+"qbN-Mp-SEc.title" = "新建分组";
+
+/* Class = "NSMenuItem"; title = "Keep Cardhop in Front"; ObjectID = "rfp-4c-OpJ"; */
+"rfp-4c-OpJ.title" = "保持 Cardhop 在前面";
+
+/* Class = "NSMenuItem"; title = "Delete Card"; ObjectID = "xJs-0k-5bn"; */
+"xJs-0k-5bn.title" = "删除卡片";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "options"; ObjectID = "xWb-oU-6SM"; */
+"xWb-oU-6SM.ibExternalAccessibilityDescription" = "选项";

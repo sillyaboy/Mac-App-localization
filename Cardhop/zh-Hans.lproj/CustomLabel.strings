@@ -1,0 +1,12 @@
+
+/* Class = "NSWindow"; title = "Custom Label"; ObjectID = "1"; */
+"1.title" = "自定义标签";
+
+/* Class = "NSTextFieldCell"; title = "Add custom label:"; ObjectID = "4"; */
+"4.title" = "添加自定义标签:";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "19"; */
+"19.title" = "好的";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "25"; */
+"25.title" = "取消";

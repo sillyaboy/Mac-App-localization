@@ -1,0 +1,33 @@
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "8wT-2O-pYa"; */
+"8wT-2O-pYa.title" = "名字:";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "9D9-BR-zpJ"; */
+"9D9-BR-zpJ.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "License Cardhop"; ObjectID = "9lG-wd-qNX"; */
+"9lG-wd-qNX.title" = "License 许可证";
+
+/* Class = "NSButtonCell"; title = "License"; ObjectID = "BEK-ft-04j"; */
+"BEK-ft-04j.title" = "许可证";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Code"; ObjectID = "D9J-iY-NME"; */
+"D9J-iY-NME.placeholderString" = "代码";
+
+/* Class = "NSWindow"; title = "License Cardhop"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Cardhop 许可证";
+
+/* Class = "NSTextFieldCell"; title = "Enter your name and code exactly as they appear in your purchase email.\n\nYou can also click the link from your purchase email and Cardhop will unlock automatically."; ObjectID = "Rpx-cj-7cp"; */
+"Rpx-cj-7cp.title" = "输入与您的购买的电子邮件中显示的完全相同的名称和代码。\n\n您也可以单击购买电子邮件中的链接，Cardhop 将自动解锁。";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "your name"; ObjectID = "Xks-RK-8AL"; */
+"Xks-RK-8AL.ibExternalAccessibilityDescription" = "您的名字";
+
+/* Class = "NSTextFieldCell"; title = "Code:"; ObjectID = "quy-4B-DOp"; */
+"quy-4B-DOp.title" = "代码:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Your Name"; ObjectID = "sZa-tp-5tb"; */
+"sZa-tp-5tb.placeholderString" = "您的名字";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "license code"; ObjectID = "x0x-o8-gF6"; */
+"x0x-o8-gF6.ibExternalAccessibilityDescription" = "许可证代码";

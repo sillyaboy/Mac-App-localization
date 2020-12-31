@@ -1,0 +1,12 @@
+
+/* Class = "NSTextFieldCell"; title = "Type to add, edit, search, and interact with your contacts."; ObjectID = "31"; */
+"31.title" = "键入以添加，编辑，搜索并与您的联系人互动。";
+
+/* Class = "NSButtonCell"; title = "Got It!"; ObjectID = "35"; */
+"35.title" = "知道了!";
+
+/* Class = "NSTextFieldCell"; title = "To open Cardhop’s mini window, click the menu bar icon or press control-option-D.\n\nWant to learn more? Type “help” or “?” into Cardhop's input field."; ObjectID = "39"; */
+"39.title" = "要打开 Cardhop 的迷你窗口，请单击菜单栏图标或按下 Control + Option + D。\n\n想了解更多吗？键入“help”或“？“进入 Cardhop 的输入字段。";
+
+/* Class = "NSTextFieldCell"; title = "Welcome to"; ObjectID = "44"; */
+"44.title" = "欢迎来到";

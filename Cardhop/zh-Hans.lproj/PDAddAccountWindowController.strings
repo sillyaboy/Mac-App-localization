@@ -1,0 +1,45 @@
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "user name"; ObjectID = "37"; */
+"37.ibExternalAccessibilityDescription" = "用户名";
+
+/* Class = "NSSecureTextField"; ibExternalAccessibilityDescription = "password"; ObjectID = "38"; */
+"38.ibExternalAccessibilityDescription" = "密码";
+
+/* Class = "NSSecureTextFieldCell"; placeholderString = "Required"; ObjectID = "51"; */
+"51.placeholderString" = "必填";
+
+/* Class = "NSTextFieldCell"; title = "User Name:"; ObjectID = "56"; */
+"56.title" = "用户名:";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "58"; */
+"58.title" = "密码:";
+
+/* Class = "NSButtonCell"; title = "Add"; ObjectID = "60"; */
+"60.title" = "添加";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "61"; */
+"61.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Exchange URL:"; ObjectID = "8f0-Xy-KmG"; */
+"8f0-Xy-KmG.title" = "Exchange-URL:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Automatic"; ObjectID = "MKd-qR-vMq"; */
+"MKd-qR-vMq.placeholderString" = "自动";
+
+/* Class = "NSTextFieldCell"; title = "User Name:"; ObjectID = "OEt-Ii-y8C"; */
+"OEt-Ii-y8C.title" = "用户名:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Automatic"; ObjectID = "ZCd-qp-Etc"; */
+"ZCd-qp-Etc.placeholderString" = "自动";
+
+/* Class = "NSTextFieldCell"; title = "Help text (do not localize)"; ObjectID = "cbY-qj-0uH"; */
+"cbY-qj-0uH.title" = "Help text (do not localize)";
+
+/* Class = "NSTextFieldCell"; title = "Unable to verify user name or password."; ObjectID = "kcs-e5-4vP"; */
+"kcs-e5-4vP.title" = "无法验证用户名或密码。";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "user name"; ObjectID = "n7u-j7-AE2"; */
+"n7u-j7-AE2.ibExternalAccessibilityDescription" = "用户名";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "user name"; ObjectID = "pf8-Av-iGG"; */
+"pf8-Av-iGG.ibExternalAccessibilityDescription" = "用户名";

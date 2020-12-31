@@ -1,0 +1,27 @@
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "automatically check for updates"; ObjectID = "2"; */
+"2.ibExternalAccessibilityDescription" = "自动检查更新";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "enable to automatically check for updates"; ObjectID = "2"; */
+"2.ibExternalAccessibilityHelp" = "启用以自动检查更新";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "include anonymous system profile"; ObjectID = "3"; */
+"3.ibExternalAccessibilityDescription" = "包括匿名系统配置文件";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "enable to include anonymous information about your system when checking for updates"; ObjectID = "3"; */
+"3.ibExternalAccessibilityHelp" = "启用在检查更新时包括有关系统的匿名信息";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Anonymous data contains information about your system such as your Mac model, OS version, and language."; ObjectID = "3"; */
+"3.ibShadowedToolTip" = "匿名数据包含有关系统的信息，例如Mac型号，操作系统版本和语言。";
+
+/* Class = "NSButtonCell"; title = "Check for Update..."; ObjectID = "8"; */
+"8.title" = "检查更新...";
+
+/* Class = "NSButtonCell"; title = "Include anonymous system profile"; ObjectID = "10"; */
+"10.title" = "包括匿名系统配置文件";
+
+/* Class = "NSButtonCell"; title = "Automatically check for updates"; ObjectID = "11"; */
+"11.title" = "自动检查更新";
+
+/* Class = "NSButtonCell"; title = "Check for beta updates"; ObjectID = "TaJ-HJ-Fod"; */
+"TaJ-HJ-Fod.title" = "检查 Beta 更新";

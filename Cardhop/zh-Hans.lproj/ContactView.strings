@@ -1,0 +1,21 @@
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Add Field – ⌥⌘F"; ObjectID = "1017"; */
+"1017.ibShadowedToolTip" = "添加字段 – ⌥⌘F";
+
+/* Class = "NSMenuItem"; title = "Add field"; ObjectID = "1020"; */
+"1020.title" = "添加字段";
+
+/* Class = "NSTableView"; ibExternalAccessibilityDescription = "contact details"; ObjectID = "1025"; */
+"1025.ibExternalAccessibilityDescription" = "联系方式";
+
+/* Class = "NSButtonCell"; title = "Company"; ObjectID = "1570"; */
+"1570.title" = "公司";
+
+/* Class = "NSButtonCell"; title = "Update"; ObjectID = "1587"; */
+"1587.title" = "更新";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "6FT-wL-mP3"; */
+"6FT-wL-mP3.title" = "取消";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "birthday"; ObjectID = "VsM-2l-WxM"; */
+"VsM-2l-WxM.ibExternalAccessibilityDescription" = "生日";

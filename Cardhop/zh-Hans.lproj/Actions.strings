@@ -1,0 +1,24 @@
+
+/* Class = "NSTextFieldCell"; title = "Click the Quick Actions below to customize the default actions shown for each contact."; ObjectID = "Ikv-8v-rrX"; */
+"Ikv-8v-rrX.title" = "点击下面的快速操作，以自定义为每个联系人显示的默认操作。";
+
+/* Class = "NSTextFieldCell"; title = "Call Using:"; ObjectID = "JOf-Wk-zAi"; */
+"JOf-Wk-zAi.title" = "拨打:";
+
+/* Class = "NSButtonCell"; title = "Show Quick Actions on contact cards"; ObjectID = "MIS-Dj-B5a"; */
+"MIS-Dj-B5a.title" = "在联系人卡片上显示快速操作";
+
+/* Class = "NSTextFieldCell"; title = "Quick Actions for individual contacts can be customized by control-clicking or right-clicking on a\nQuick Action when viewing a contact card."; ObjectID = "R1H-9m-L9h"; */
+"R1H-9m-L9h.title" = "查看联系人卡片时，可以通过单击鼠标右键或单击\n鼠标右键来自定义单个联系人的快速操作。";
+
+/* Class = "NSMenuItem"; title = "macOS (Continuity or Wi-Fi Calling)"; ObjectID = "VRO-eL-MwZ"; */
+"VRO-eL-MwZ.title" = "macOS (连续性或 Wi-Fi 呼叫)";
+
+/* Class = "NSButtonCell"; title = "Show Quick Actions in contact list"; ObjectID = "cut-T1-1My"; */
+"cut-T1-1My.title" = "在联系人列表中显示快速操作";
+
+/* Class = "NSTextFieldCell"; title = "macOS: Make calls directly on your Mac. Requires an iPhone with Continuity or Wi-Fi Calling enabled.\n\nBluetooth: Make calls on your phone. Requires a phone paired with your Mac using Bluetooth.\n\n"; ObjectID = "vsQ-t9-SLn"; */
+"vsQ-t9-SLn.title" = "macOS：直接在Mac上拨打电话。需要启用了连续性或 Wi-Fi 通话的iPhone。\n\n蓝牙：通过手机拨打电话。需要使用蓝牙与Mac配对的手机。\n\n";
+
+/* Class = "NSButtonCell"; title = "Reset Custom Quick Actions"; ObjectID = "ymb-1g-u4t"; */
+"ymb-1g-u4t.title" = "重置自定义快速操作";

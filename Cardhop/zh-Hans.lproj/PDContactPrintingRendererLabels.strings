@@ -1,0 +1,42 @@
+
+/* Class = "NSMenuItem"; title = "Name & Company"; ObjectID = "1bG-Qv-POf"; */
+"1bG-Qv-POf.title" = "名字 & 公司";
+
+/* Class = "NSButtonCell"; title = "Select…"; ObjectID = "6cZ-zx-lmp"; */
+"6cZ-zx-lmp.title" = "选择…";
+
+/* Class = "NSMenuItem"; title = "By Postal Code"; ObjectID = "E2z-Xc-dqP"; */
+"E2z-Xc-dqP.title" = "按邮政编码";
+
+/* Class = "NSMenuItem"; title = "Company"; ObjectID = "I30-1X-Zrd"; */
+"I30-1X-Zrd.title" = "公司";
+
+/* Class = "NSButtonCell"; title = "Only One Address per Contact"; ObjectID = "MZc-w0-VqZ"; */
+"MZc-w0-VqZ.title" = "每个联系人仅一个地址";
+
+/* Class = "NSTextFieldCell"; title = "Label:"; ObjectID = "Put-ZF-RU1"; */
+"Put-ZF-RU1.title" = "标签:";
+
+/* Class = "NSTextFieldCell"; title = "Order:"; ObjectID = "RPR-iz-h7A"; */
+"RPR-iz-h7A.title" = "顺序:";
+
+/* Class = "NSButtonCell"; title = "Show Country"; ObjectID = "WhG-nP-CRF"; */
+"WhG-nP-CRF.title" = "显示国家";
+
+/* Class = "NSTextFieldCell"; title = "Recipient Address:"; ObjectID = "Www-rn-fv5"; */
+"Www-rn-fv5.title" = "收件人地址:";
+
+/* Class = "NSMenuItem"; title = "Name"; ObjectID = "Z7d-pc-Js4"; */
+"Z7d-pc-Js4.title" = "名字";
+
+/* Class = "NSMenuItem"; title = "Alphabetical"; ObjectID = "Zcc-hC-1zG"; */
+"Zcc-hC-1zG.title" = "按字母顺序";
+
+/* Class = "NSTextFieldCell"; title = "Recipient:"; ObjectID = "dSe-sU-b6n"; */
+"dSe-sU-b6n.title" = "收件人:";
+
+/* Class = "NSButtonCell"; title = "Except if Same Country as Mine"; ObjectID = "f4h-bT-7EZ"; */
+"f4h-bT-7EZ.title" = "除非与我所在的国家/地区相同";
+
+/* Class = "NSTextFieldCell"; title = "Image:"; ObjectID = "j7u-sh-FcO"; */
+"j7u-sh-FcO.title" = "图片:";

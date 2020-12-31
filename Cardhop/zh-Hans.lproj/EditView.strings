@@ -1,0 +1,26 @@
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "contact"; ObjectID = "333"; */
+"333.ibExternalAccessibilityDescription" = "联系人";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "contact"; ObjectID = "404"; */
+"404.ibExternalAccessibilityDescription" = "联系人";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "contact"; ObjectID = "BB5-TH-Jl3"; */
+"BB5-TH-Jl3.ibExternalAccessibilityDescription" = "联系人";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "contact"; ObjectID = "Csh-Cg-dLx"; */
+"Csh-Cg-dLx.ibExternalAccessibilityDescription" = "联系人";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "me card"; ObjectID = "UxH-GS-cIf"; */
+"UxH-GS-cIf.ibExternalAccessibilityDescription" = "我的卡片";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "contact"; ObjectID = "X90-86-52I"; */
+"X90-86-52I.ibExternalAccessibilityDescription" = "联系人";
+
+/* Class = "NSButtonCell"; title = "Search All Contacts"; ObjectID = "wRg-Gc-TRr"; */
+"wRg-Gc-TRr.title" = "搜索所有联系人";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "contact"; ObjectID = "wtk-BZ-dfk"; */
+"wtk-BZ-dfk.ibExternalAccessibilityDescription" = "联系人";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "me card"; ObjectID = "y0C-Xr-ZGW"; */
+"y0C-Xr-ZGW.ibExternalAccessibilityDescription" = "我的卡片";

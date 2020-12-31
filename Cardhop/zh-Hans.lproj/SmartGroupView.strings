@@ -1,0 +1,23 @@
+/* Class = "NSMenuItem"; title = "Templates"; ObjectID = "9sL-9Q-gbH"; */
+"9sL-9Q-gbH.title" = "模板";
+
+/* Class = "NSMenuItem"; title = "All"; ObjectID = "E1k-If-WD8"; */
+"E1k-If-WD8.title" = "全部";
+
+/* Class = "NSMenuItem"; title = "Any"; ObjectID = "LXO-Ia-rtu"; */
+"LXO-Ia-rtu.title" = "任意";
+
+/* Class = "NSTextFieldCell"; title = "Need a little inspiration? Get started with a template:"; ObjectID = "PBf-ok-tA6"; */
+"PBf-ok-tA6.title" = "需要一点灵感吗？ 开始使用模板:";
+
+/* Class = "NSTextFieldCell"; title = "Smart Group Name:"; ObjectID = "Q45-Ap-K3B"; */
+"Q45-Ap-K3B.title" = "智能分组名称:";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "g4d-Ym-mIb"; */
+"g4d-Ym-mIb.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "qj4-Wh-Y8W"; */
+"qj4-Wh-Y8W.title" = "好的";
+
+/* Class = "NSMenuItem"; title = "of the following are true"; ObjectID = "rcE-Ys-Cce"; */
+"rcE-Ys-Cce.title" = "以下是正确的";

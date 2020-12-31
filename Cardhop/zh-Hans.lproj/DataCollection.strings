@@ -1,0 +1,15 @@
+
+/* Class = "NSButtonCell"; title = "Enable automatic feedback"; ObjectID = "21"; */
+"21.title" = "启用自动反馈";
+
+/* Class = "NSButtonCell"; title = "Show flag as incorrect button"; ObjectID = "23"; */
+"23.title" = "将标记显示为错误按钮";
+
+/* Class = "NSTextFieldCell"; title = "Your input is used to help improve Cardhop's natural language engine. Data is sent securely and is only used for improving our engine.\n\nWhat exactly is sent back?\n\n- Any sentence you add using Cardhop\n- Any corrections or changes made to the sentence\n- Your system's language (e.g. English, Spanish, Japanese)\n- No personal data or identifying information about your system is sent\n\nWhat if I need to prevent a sentence from being sent to Flexibits?\n\nData is stored on your Mac and sent back after a seven day waiting period. This gives you time to view and delete any data before it is sent to Flexibits."; ObjectID = "25"; */
+"25.title" = "您的输入用于帮助改进Cardhop的自然语言引擎。数据被安全地发送，并且只用于改进我们的引擎。\n\n到底发送了什么？\n\n- 你用 Cardhop 添加的任何句子\n- 对句子的任何更正或更改\n- 系统语言（例如英语、西班牙语、日语）\n- 不会发送有关您系统的个人数据或标识信息\n\n如果我需要阻止一个句子被发送到 Flexibits 怎么办？\n\n数据存储在 Mac 上，等待 7 天后才会发送出去。这使您有时间查看和删除任何数据，然后再将其发送到 Flexibits。";
+
+/* Class = "NSTextFieldCell"; title = "This option adds a button to the upper-right of Cardhop's interface that you can use to tell us when Cardhop parses input incorrectly."; ObjectID = "27"; */
+"27.title" = "此选项在 Cardhop 界面的右上方添加了一个按钮，您可以使用该按钮告诉我们 Cardhop 何时错误地解析了输入。";
+
+/* Class = "NSButtonCell"; title = "View Pending Submissions"; ObjectID = "DuZ-CE-Xbw"; */
+"DuZ-CE-Xbw.title" = "查看待提交的文件";

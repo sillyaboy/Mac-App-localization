@@ -1,0 +1,12 @@
+
+/* Class = "NSTextFieldCell"; title = "Description:"; ObjectID = "4HT-3T-Be9"; */
+"4HT-3T-Be9.title" = "描述:";
+
+/* Class = "NSTextFieldCell"; title = "Cardhop can search for contacts on Google Contacts, G Suite user directories, and Exchange Global Address List.\n\nLog in to Google, Exchange, or Office 365 to search in your directories."; ObjectID = "XxQ-Th-p50"; */
+"XxQ-Th-p50.title" = "Cardhop 可以在 Google 通讯录，G Suite 用户目录和 Exchange 全局地址列表中搜索联系人。\n\n登录到Google，Exchange 或 Office 365 以搜索目录。";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "Z6z-Fk-VMs"; */
+"Z6z-Fk-VMs.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Add Directory"; ObjectID = "lJl-tm-y2w"; */
+"lJl-tm-y2w.title" = "添加目录";
